@@ -1,0 +1,6 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Project1\bin\Debug\Project1.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Project1\bin\Debug\Project1.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Project1\obj\x86\Debug\Project1.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Project1\obj\x86\Debug\Project1.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Project1\bin\Debug\PresentationCore.dll

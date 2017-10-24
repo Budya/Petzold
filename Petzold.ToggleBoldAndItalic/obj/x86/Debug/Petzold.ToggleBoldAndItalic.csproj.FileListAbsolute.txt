@@ -1,0 +1,5 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ToggleBoldAndItalic\bin\Debug\Petzold.ToggleBoldAndItalic.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ToggleBoldAndItalic\bin\Debug\Petzold.ToggleBoldAndItalic.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ToggleBoldAndItalic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ToggleBoldAndItalic\obj\x86\Debug\Petzold.ToggleBoldAndItalic.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ToggleBoldAndItalic\obj\x86\Debug\Petzold.ToggleBoldAndItalic.pdb

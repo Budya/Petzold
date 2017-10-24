@@ -1,0 +1,513 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="22" />
+      <Item value="class" priority="9" />
+      <Item value="STAThread" priority="17" />
+      <Item value="psvm" priority="17" />
+      <Item value="Application`0" priority="22" />
+      <Item value="new" priority="110" />
+      <Item value="Application" priority="17" />
+      <Item value="app" priority="17" />
+      <Item value="GrowAndShrink`0" priority="0" />
+      <Item value="Title" priority="17" />
+      <Item value="WindowStartupLocation" priority="1" />
+      <Item value="CenterScreen" priority="1" />
+      <Item value="WidthProperty" priority="0" />
+      <Item value="Height" priority="5" />
+      <Item value="protected" priority="6" />
+      <Item value="override" priority="7" />
+      <Item value="if" priority="12" />
+      <Item value="e" priority="13" />
+      <Item value="Up" priority="0" />
+      <Item value="Left" priority="3" />
+      <Item value="Width" priority="4" />
+      <Item value="Top" priority="1" />
+      <Item value="else" priority="5" />
+      <Item value="this" priority="2" />
+      <Item value="Down" priority="0" />
+      <Item value="Window`0" priority="15" />
+      <Item value="Char`0" priority="0" />
+      <Item value="win" priority="3" />
+      <Item value="ThreeDBorderWindow" priority="0" />
+      <Item value="CanResizeWithGrip" priority="0" />
+      <Item value="using" priority="24" />
+      <Item value="System" priority="31" />
+      <Item value="Windows" priority="33" />
+      <Item value="Media" priority="13" />
+      <Item value="SolidColorBrush`0" priority="1" />
+      <Item value="Color`0" priority="2" />
+      <Item value="Input" priority="7" />
+      <Item value="SolidColorBrush" priority="0" />
+      <Item value="Colors`0" priority="17" />
+      <Item value="VaryTheBackground`0" priority="0" />
+      <Item value="TitleProperty" priority="3" />
+      <Item value="HeightProperty" priority="0" />
+      <Item value="Background" priority="7" />
+      <Item value="brush" priority="34" />
+      <Item value="double" priority="9" />
+      <Item value="ActualWidth" priority="2" />
+      <Item value="SystemParameters`0" priority="6" />
+      <Item value="ActualHeight" priority="2" />
+      <Item value="Point`0" priority="8" />
+      <Item value="args" priority="3" />
+      <Item value="Point" priority="15" />
+      <Item value="width" priority="4" />
+      <Item value="Math`0" priority="6" />
+      <Item value="height" priority="5" />
+      <Item value="Vector`0" priority="2" />
+      <Item value="ptMouse" priority="5" />
+      <Item value="ptCenter" priority="2" />
+      <Item value="vectMouse" priority="2" />
+      <Item value="Vector" priority="2" />
+      <Item value="angle" priority="4" />
+      <Item value="Byte`0" priority="0" />
+      <Item value="vectEllipse" priority="0" />
+      <Item value="Color" priority="0" />
+      <Item value="clr" priority="3" />
+      <Item value="byLevel" priority="0" />
+      <Item value="Brushes`0" priority="8" />
+      <Item value="Reflection" priority="0" />
+      <Item value="namespace" priority="2" />
+      <Item value="int" priority="0" />
+      <Item value="PropertyInfo`0" priority="0" />
+      <Item value="Window" priority="0" />
+      <Item value="FlipThroughtTheBrushes`0" priority="1" />
+      <Item value="props" priority="4" />
+      <Item value="typeof" priority="0" />
+      <Item value="BindingFlags`0" priority="1" />
+      <Item value="index" priority="3" />
+      <Item value="Brush`0" priority="1" />
+      <Item value="null" priority="1" />
+      <Item value="Key`0" priority="0" />
+      <Item value="Length" priority="1" />
+      <Item value="GradientBrush`0" priority="2" />
+      <Item value="LinearGradientBrush`0" priority="5" />
+      <Item value="LinearGradientBrush" priority="3" />
+      <Item value="Reflect" priority="0" />
+      <Item value="AdjustTheGradient`0" priority="0" />
+      <Item value="SizeChanged" priority="0" />
+      <Item value="Absolute" priority="0" />
+      <Item value="void" priority="2" />
+      <Item value="object" priority="1" />
+      <Item value="SizeChangedEventArgs`0" priority="0" />
+      <Item value="VerticalContentAlignmentProperty" priority="0" />
+      <Item value="vectDiag" priority="2" />
+      <Item value="vectPerp" priority="3" />
+      <Item value="FollowTheRainbow`0" priority="0" />
+      <Item value="GradientStop" priority="0" />
+      <Item value="RadialGradientBrush`0" priority="2" />
+      <Item value="RadialGradientBrush" priority="2" />
+      <Item value="ClickTheGradientCenter`0" priority="0" />
+      <Item value="LineBreakCondition`0" priority="0" />
+      <Item value="GradientSpreadMethod`0" priority="1" />
+      <Item value="BackgroundProperty" priority="0" />
+      <Item value="with" priority="0" />
+      <Item value="Right" priority="2" />
+      <Item value="Threading" priority="1" />
+      <Item value="RotateTheGradientOrigin`0" priority="0" />
+      <Item value="Dispatcher`0" priority="0" />
+      <Item value="DispatcherTimer`0" priority="0" />
+      <Item value="DispatcherTimer" priority="0" />
+      <Item value="tmr" priority="2" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="EventArgs`0" priority="1" />
+      <Item value="pt" priority="0" />
+      <Item value="MaxWidthProperty" priority="0" />
+      <Item value="BorderThicknessProperty" priority="0" />
+      <Item value="BorderThickness" priority="1" />
+      <Item value="Thickness" priority="4" />
+      <Item value="grBrush" priority="1" />
+      <Item value="BorderBrush" priority="1" />
+      <Item value="DisplaySomeText`0" priority="0" />
+      <Item value="FontFamily" priority="3" />
+      <Item value="FontSize" priority="1" />
+      <Item value="FontStyle" priority="1" />
+      <Item value="ForegroundProperty" priority="0" />
+      <Item value="FontStyles`0" priority="4" />
+      <Item value="FontWeight" priority="1" />
+      <Item value="FontWeights`0" priority="2" />
+      <Item value="Foreground" priority="0" />
+      <Item value="SizeToContent" priority="0" />
+      <Item value="WidthAndHeight" priority="0" />
+      <Item value="ContentTemplateSelectorProperty" priority="1" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="RecordKeyStrokes`0" priority="0" />
+      <Item value="Content" priority="6" />
+      <Item value="string" priority="3" />
+      <Item value="as" priority="1" />
+      <Item value="str" priority="5" />
+      <Item value="AreAnyTouchesOverProperty" priority="0" />
+      <Item value="ContextMenuProperty" priority="2" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="StringBuilder" priority="0" />
+      <Item value="build" priority="5" />
+      <Item value="Text.RegularExpressions" priority="0" />
+      <Item value="Controls" priority="3" />
+      <Item value="Imaging" priority="0" />
+      <Item value="ShowMyFace`0" priority="0" />
+      <Item value="Uri`0" priority="0" />
+      <Item value="uri" priority="1" />
+      <Item value="Uri" priority="0" />
+      <Item value="BitmapImage`0" priority="0" />
+      <Item value="BitmapImage" priority="0" />
+      <Item value="Image`0" priority="0" />
+      <Item value="Image" priority="0" />
+      <Item value="img" priority="7" />
+      <Item value="bitmap" priority="0" />
+      <Item value="Fill" priority="0" />
+      <Item value="VerticalAlignment" priority="0" />
+      <Item value="NetPipeStyleUriParser`0" priority="0" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="RotateTransform`0" priority="0" />
+      <Item value="Shapes" priority="0" />
+      <Item value="psr" priority="0" />
+      <Item value="ShapeAnEllipse`0" priority="0" />
+      <Item value="Ellipse`0" priority="0" />
+      <Item value="Ellipse" priority="0" />
+      <Item value="ellips" priority="3" />
+      <Item value="Documents" priority="1" />
+      <Item value="StackOverflowException`0" priority="0" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="TextBlock`0" priority="2" />
+      <Item value="TextBlock" priority="2" />
+      <Item value="txt" priority="10" />
+      <Item value="Bold`0" priority="0" />
+      <Item value="Wrap" priority="0" />
+      <Item value="FontEastAsianWidths`0" priority="0" />
+      <Item value="ToggleBoldAndItalic`0" priority="0" />
+      <Item value="text" priority="5" />
+      <Item value="Center" priority="6" />
+      <Item value="strQuote" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="Run`0" priority="5" />
+      <Item value="Run" priority="0" />
+      <Item value="strWord" priority="0" />
+      <Item value="run" priority="3" />
+      <Item value="sender" priority="0" />
+      <Item value="AddChild`0" priority="0" />
+      <Item value="FrameworkElement`0" priority="0" />
+      <Item value="drawingContext" priority="0" />
+      <Item value="Pen" priority="0" />
+      <Item value="RenderSize" priority="3" />
+      <Item value="STAThreadAttribute`0" priority="0" />
+      <Item value="SimpleEllipse`0" priority="0" />
+      <Item value="ellipse" priority="1" />
+      <Item value="SimpleEllipse" priority="0" />
+      <Item value="RenderTheGraphic`0" priority="1" />
+      <Item value="ClickTheButton`0" priority="0" />
+      <Item value="Button`0" priority="1" />
+      <Item value="Button" priority="1" />
+      <Item value="btn" priority="14" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="HorizontalAlignment" priority="0" />
+      <Item value="Bottom" priority="0" />
+      <Item value="FormatTheButton`0" priority="0" />
+      <Item value="txtBlk" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="Run`0" priority="17" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.KeyEventArgs">
+      <Item value="Key" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Substring`0" priority="1" />
+      <Item value="Length" priority="3" />
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.TextCompositionEventArgs">
+      <Item value="Text" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Char">
+      <Item value="IsControl`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Window">
+      <Item value="WindowStyle" priority="0" />
+      <Item value="ResizeMode" priority="0" />
+      <Item value="Background" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.WindowStyle">
+      <Item value="ToolWindow" priority="0" />
+      <Item value="None" priority="0" />
+      <Item value="ThreeDBorderWindow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Color">
+      <Item value="FromRgb`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Colors">
+      <Item value="Black" priority="2" />
+      <Item value="Red" priority="6" />
+      <Item value="Blue" priority="5" />
+      <Item value="Orange" priority="0" />
+      <Item value="Yellow" priority="0" />
+      <Item value="Green" priority="0" />
+      <Item value="Indigo" priority="0" />
+      <Item value="Violet" priority="0" />
+      <Item value="Wheat" priority="0" />
+      <Item value="White" priority="1" />
+      <Item value="CadetBlue" priority="0" />
+      <Item value="Chocolate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.SystemParameters">
+      <Item value="ResizeFrameVerticalBorderWidth" priority="2" />
+      <Item value="ResizeFrameHorizontalBorderHeight" priority="1" />
+      <Item value="CaptionHeight" priority="2" />
+      <Item value="ResizeFrameHorizontalBorderHeightKey" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.MouseEventArgs">
+      <Item value="GetHashCode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Cos`0" priority="2" />
+      <Item value="Sin`0" priority="1" />
+      <Item value="Min`0" priority="0" />
+      <Item value="PI" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Vector">
+      <Item value="Y" priority="3" />
+      <Item value="Length" priority="2" />
+      <Item value="Normalize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.SolidColorBrush">
+      <Item value="Color" priority="1" />
+      <Item value="Clone`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Color">
+      <Item value="R" priority="0" />
+      <Item value="G" priority="0" />
+      <Item value="B" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Byte">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Brushes">
+      <Item value="Black" priority="1" />
+      <Item value="SaddleBrown" priority="1" />
+      <Item value="AliceBlue" priority="0" />
+      <Item value="Blue" priority="0" />
+      <Item value="Red" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetProperties`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.BindingFlags">
+      <Item value="Public" priority="0" />
+      <Item value="Static" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="Name" priority="0" />
+      <Item value="GetValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Input.Key">
+      <Item value="Up" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.LinearGradientBrush">
+      <Item value="SpreadMethod" priority="0" />
+      <Item value="MappingMode" priority="0" />
+      <Item value="StartPoint" priority="1" />
+      <Item value="EndPoint" priority="1" />
+      <Item value="GradientStops" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.GradientSpreadMethod">
+      <Item value="Repeat" priority="2" />
+      <Item value="Pad" priority="0" />
+      <Item value="Reflect" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.GradientStopCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.RadialGradientBrush">
+      <Item value="GradientOrigin" priority="4" />
+      <Item value="RadiusX" priority="1" />
+      <Item value="RadiusY" priority="1" />
+      <Item value="SpreadMethod" priority="1" />
+      <Item value="Center" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.MouseButtonEventArgs">
+      <Item value="GetPosition`0" priority="0" />
+      <Item value="ChangedButton" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Point">
+      <Item value="X" priority="0" />
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.DispatcherTimer">
+      <Item value="Interval" priority="0" />
+      <Item value="Tick" priority="0" />
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromMilliseconds`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.FontStyles">
+      <Item value="Italic" priority="3" />
+      <Item value="Oblique" priority="0" />
+      <Item value="Normal" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.FontWeights">
+      <Item value="Bold" priority="2" />
+      <Item value="Normal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.EventArgs">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Length" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Append`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Image">
+      <Item value="Source" priority="0" />
+      <Item value="Stretch" priority="0" />
+      <Item value="HorizontalAlignment" priority="0" />
+      <Item value="VerticalAlignment" priority="0" />
+      <Item value="Margin" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="Opacity" priority="0" />
+      <Item value="LayoutTransform" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Stretch">
+      <Item value="None" priority="0" />
+      <Item value="UniformToFill" priority="0" />
+      <Item value="Uniform" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.VerticalAlignment">
+      <Item value="Top" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Shapes.Ellipse">
+      <Item value="Fill" priority="0" />
+      <Item value="StrokeThickness" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="FontSize" priority="2" />
+      <Item value="Inlines" priority="15" />
+      <Item value="TextWrapping" priority="0" />
+      <Item value="HorizontalAlignment" priority="0" />
+      <Item value="VerticalAlignment" priority="0" />
+      <Item value="TextAlignment" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.InlineCollection">
+      <Item value="Add`0" priority="15" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.Run">
+      <Item value="MouseDown" priority="0" />
+      <Item value="FontStyle" priority="1" />
+      <Item value="FontWeight" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.DrawingContext">
+      <Item value="DrawEllipse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Size">
+      <Item value="Width" priority="1" />
+      <Item value="Height" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Content" priority="2" />
+      <Item value="Click" priority="0" />
+      <Item value="Margin" priority="0" />
+      <Item value="HorizontalAlignment" priority="2" />
+      <Item value="VerticalAlignment" priority="2" />
+      <Item value="Padding" priority="0" />
+      <Item value="MouseEnter" priority="0" />
+      <Item value="MouseLeave" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.HorizontalAlignment">
+      <Item value="Left" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.SystemColors">
+      <Item value="ControlTextBrush" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7EE5C344-E918-4400-B614-EB955DFB114D/f:Petzold.GrowAndShrink.cs" caret="819" fromTop="31" />
+      <File id="812957FA-3010-49FB-AAB6-ABCDA85307C2/f:Petzold.HandleAnEvent.cs" caret="103" fromTop="5" />
+      <File id="7B1FCD23-79D1-4058-A2CA-CBBAAAB8B572/f:MyWindow.cs" caret="106" fromTop="4" />
+      <File id="A104DFC0-B59C-459D-9D02-AFFA0BE74234/f:TypeTourTitle.cs" caret="695" fromTop="24" />
+      <File id="84CF3442-DD45-4B78-91E4-9948F9138316/f:InheritTheApp.cs" caret="461" fromTop="6" />
+      <File id="1205921F-0F45-4EB8-8DD0-BB3BBE00009B/f:ThrowWindowParty.cs" caret="1245" fromTop="23" />
+      <File id="F322F4B8-5DEC-406F-B6CB-9BB21DAE7A65/f:SayHello.cs" caret="95" fromTop="4" />
+      <File id="3112BFB3-1861-4FB7-B735-E5271C41BFCF/f:VaryTheBackground.cs" caret="591" fromTop="21" />
+      <File id="781210BB-54AB-431D-81BA-F64E9BF2E015/f:GradientTheBrush.cs" caret="925" fromTop="22" />
+      <File id="AEE1AC83-C16C-4AE4-B625-64FA55D91B09/f:FlipThroughtTheBrushes.cs" caret="120" fromTop="4" />
+      <File id="C93213FD-6F4A-4B6E-BBC6-FFCC12219750/f:FollowTheRainbow.cs" caret="1368" fromTop="21" />
+      <File id="FFDC8ECD-6F31-4E28-AF30-8860E3CB6394/f:ClickTheGradientCenter.cs" caret="1271" fromTop="15" />
+      <File id="0E4E5C47-E8AB-4085-8517-E129EBC90F07/f:RotateTheGradientOrigin.cs" caret="310" fromTop="12" />
+      <File id="F3127646-1C12-4674-B8E4-51C2E9423643/f:AdjustTheGradient.cs" caret="159" fromTop="6" />
+      <File id="13D4B6FA-95DD-4033-AFB5-76B1524401FD/f:RecordKeyStrokes.cs" caret="1452" fromTop="52" />
+      <File id="A9F99193-88BF-43E6-B9CA-96FEAD0C5618/f:ShowMyFace.cs" caret="163" fromTop="5" />
+      <File id="F7AF5E6C-7984-4D70-A012-46CD2853F993/f:ShapeAnEllipse.cs" caret="195" fromTop="7" />
+      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="0" fromTop="0" />
+      <File id="F1249528-E319-4962-A811-30BC6FC44126/f:DisplaySomeText.cs" caret="419" fromTop="6" />
+      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="1261" fromTop="33" />
+      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:RenderTheGraphic.cs" caret="511" fromTop="23" />
+      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:SimpleEllipse.cs" caret="528" fromTop="19" />
+      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="630" fromTop="25" />
+      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="456" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F7AF5E6C-7984-4D70-A012-46CD2853F993/f:ShapeAnEllipse.cs" caret="204" fromTop="7" />
+      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="159" fromTop="5" />
+      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="400" fromTop="15" />
+      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="1079" fromTop="29" />
+      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="629" fromTop="14" />
+      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="998" fromTop="21" />
+      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="465" fromTop="9" />
+      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="0" fromTop="0" />
+      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="159" fromTop="5" />
+      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="512" fromTop="15" />
+      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="1144" fromTop="24" />
+      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="1774" fromTop="27" />
+      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="1270" fromTop="21" />
+      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:SimpleEllipse.cs" caret="67" fromTop="3" />
+      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:SimpleEllipse.cs" caret="503" fromTop="15" />
+      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:RenderTheGraphic.cs" caret="36" fromTop="1" />
+      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:RenderTheGraphic.cs" caret="315" fromTop="19" />
+      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:RenderTheGraphic.cs" caret="499" fromTop="20" />
+      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:RenderTheGraphic.cs" caret="342" fromTop="15" />
+      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:SimpleEllipse.cs" caret="528" fromTop="19" />
+      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="128" fromTop="5" />
+      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="194" fromTop="9" />
+      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="1191" fromTop="23" />
+      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="953" fromTop="17" />
+      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="639" fromTop="25" />
+      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="159" fromTop="5" />
+      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="1506" fromTop="21" />
+      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="268" fromTop="12" />
+      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="1356" fromTop="15" />
+      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="1618" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

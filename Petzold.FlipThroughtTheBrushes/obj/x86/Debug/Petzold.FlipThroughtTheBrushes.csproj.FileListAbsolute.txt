@@ -1,0 +1,5 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FlipThroughtTheBrushes\bin\Debug\Petzold.FlipThroughtTheBrushes.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FlipThroughtTheBrushes\bin\Debug\Petzold.FlipThroughtTheBrushes.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FlipThroughtTheBrushes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FlipThroughtTheBrushes\obj\x86\Debug\Petzold.FlipThroughtTheBrushes.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FlipThroughtTheBrushes\obj\x86\Debug\Petzold.FlipThroughtTheBrushes.pdb

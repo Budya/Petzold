@@ -1,0 +1,5 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\SayHello\bin\Debug\SayHello.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\SayHello\bin\Debug\SayHello.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\SayHello\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\SayHello\obj\x86\Debug\SayHello.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\SayHello\obj\x86\Debug\SayHello.pdb

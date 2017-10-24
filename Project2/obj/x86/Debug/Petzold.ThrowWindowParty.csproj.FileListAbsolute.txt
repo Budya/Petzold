@@ -1,0 +1,5 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Project2\bin\Debug\Project2.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Project2\bin\Debug\Project2.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Project2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Project2\obj\x86\Debug\Project2.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Project2\obj\x86\Debug\Project2.pdb

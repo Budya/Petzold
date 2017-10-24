@@ -1,0 +1,5 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.RotateTheGradientOrigin\bin\Debug\Petzold.RotateTheGradientOrigin.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.RotateTheGradientOrigin\bin\Debug\Petzold.RotateTheGradientOrigin.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.RotateTheGradientOrigin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.RotateTheGradientOrigin\obj\x86\Debug\Petzold.RotateTheGradientOrigin.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.RotateTheGradientOrigin\obj\x86\Debug\Petzold.RotateTheGradientOrigin.pdb

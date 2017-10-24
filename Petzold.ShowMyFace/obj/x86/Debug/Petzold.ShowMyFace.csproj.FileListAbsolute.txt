@@ -1,0 +1,5 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ShowMyFace\bin\Debug\Petzold.ShowMyFace.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ShowMyFace\bin\Debug\Petzold.ShowMyFace.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ShowMyFace\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ShowMyFace\obj\x86\Debug\Petzold.ShowMyFace.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ShowMyFace\obj\x86\Debug\Petzold.ShowMyFace.pdb

@@ -1,0 +1,55 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F322F4B8-5DEC-406F-B6CB-9BB21DAE7A65/f:SayHello.cs" caret="144" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F322F4B8-5DEC-406F-B6CB-9BB21DAE7A65/f:SayHello.cs" caret="357" fromTop="9" />
+      <File id="F322F4B8-5DEC-406F-B6CB-9BB21DAE7A65/f:SayHello.cs" caret="334" fromTop="16" />
+      <File id="F322F4B8-5DEC-406F-B6CB-9BB21DAE7A65/f:SayHello.cs" caret="54" fromTop="3" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="namespace" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="new" priority="1" />
+      <Item value="Window" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="CodeDom" priority="0" />
+      <Item value="win" priority="1" />
+      <Item value="Application`0" priority="0" />
+      <Item value="Application" priority="0" />
+      <Item value="app" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Window">
+      <Item value="Title" priority="0" />
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="Run`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

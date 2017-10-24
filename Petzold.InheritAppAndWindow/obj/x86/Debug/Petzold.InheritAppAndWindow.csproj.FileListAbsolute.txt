@@ -1,0 +1,5 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.InheritAppAndWindow\bin\Debug\Petzold.InheritAppAndWindow.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.InheritAppAndWindow\bin\Debug\Petzold.InheritAppAndWindow.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.InheritAppAndWindow\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.InheritAppAndWindow\obj\x86\Debug\Petzold.InheritAppAndWindow.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.InheritAppAndWindow\obj\x86\Debug\Petzold.InheritAppAndWindow.pdb

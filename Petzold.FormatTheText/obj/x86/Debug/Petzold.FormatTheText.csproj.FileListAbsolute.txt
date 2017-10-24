@@ -1,0 +1,5 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FormatTheText\bin\Debug\Petzold.FormatTheText.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FormatTheText\bin\Debug\Petzold.FormatTheText.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FormatTheText\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FormatTheText\obj\x86\Debug\Petzold.FormatTheText.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FormatTheText\obj\x86\Debug\Petzold.FormatTheText.pdb

@@ -1,0 +1,5 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.VaryTheBackground\bin\Debug\Petzold.VaryTheBackground.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.VaryTheBackground\bin\Debug\Petzold.VaryTheBackground.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.VaryTheBackground\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.VaryTheBackground\obj\x86\Debug\Petzold.VaryTheBackground.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.VaryTheBackground\obj\x86\Debug\Petzold.VaryTheBackground.pdb
