@@ -50,7 +50,8 @@ namespace Petzold.FormatTheButton
 
         private void ButtonOnMouseEnter(object sender, MouseEventArgs e)
         {
-            runButton.Foreground = SystemColors.ControlTextBrush;
+            runButton.Foreground = Brushes.Black;
+            //runButton.Foreground = SystemColors.ControlTextBrush;
         }
     }
 }

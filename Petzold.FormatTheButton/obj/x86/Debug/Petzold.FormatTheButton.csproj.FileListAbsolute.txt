@@ -3,5 +3,3 @@ D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FormatTheButton\bin\Deb
 D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FormatTheButton\bin\Debug\Petzold.FormatTheButton.pdb
 D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FormatTheButton\obj\x86\Debug\Petzold.FormatTheButton.exe
 D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FormatTheButton\obj\x86\Debug\Petzold.FormatTheButton.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FormatTheButton\bin\Debug\Petzold.FormatTheButton.exe.CodeAnalysisLog.xml
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FormatTheButton\bin\Debug\Petzold.FormatTheButton.exe.lastcodeanalysissucceeded
