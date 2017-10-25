@@ -21,16 +21,18 @@ namespace Petzold.ImageTheButton
         public ImageTheButton()
         {
             Title = "Image The Button";
-            Uri uri = new Uri("pack://application:,,,/krik.png");
+            Uri uri = new Uri("D://KRIK1.jpg", UriKind.Absolute);
             BitmapImage bitmap = new BitmapImage(uri);
             Image img = new Image();
             img.Source = bitmap;
+                                                     
             img.Stretch = Stretch.None;
 
             Button btn = new Button();
             btn.Content = img;
             btn.HorizontalAlignment = HorizontalAlignment.Center;
             btn.VerticalAlignment = VerticalAlignment.Center;
+            
 
             Content = btn;
 
