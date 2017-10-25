@@ -22,4 +22,5 @@
   <Module PersistentId="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A" ModuleId="Petzold.SimpleEllipse" />
   <Module PersistentId="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D" ModuleId="Petzold.ClickTheButtons" />
   <Module PersistentId="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A" ModuleId="Petzold.FormatTheButton" />
+  <Module PersistentId="5C989A72-46BB-4977-8F8C-B31FEDBDD26B" ModuleId="Petzold.ImageTheButton" />
 </Modules>

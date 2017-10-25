@@ -9,16 +9,16 @@
   </SettingsComponent>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="22" />
+      <Item value="public" priority="23" />
       <Item value="class" priority="9" />
-      <Item value="STAThread" priority="17" />
-      <Item value="psvm" priority="17" />
-      <Item value="Application`0" priority="22" />
-      <Item value="new" priority="110" />
-      <Item value="Application" priority="17" />
-      <Item value="app" priority="17" />
+      <Item value="STAThread" priority="18" />
+      <Item value="psvm" priority="18" />
+      <Item value="Application`0" priority="23" />
+      <Item value="new" priority="116" />
+      <Item value="Application" priority="18" />
+      <Item value="app" priority="18" />
       <Item value="GrowAndShrink`0" priority="0" />
-      <Item value="Title" priority="17" />
+      <Item value="Title" priority="18" />
       <Item value="WindowStartupLocation" priority="1" />
       <Item value="CenterScreen" priority="1" />
       <Item value="WidthProperty" priority="0" />
@@ -28,21 +28,21 @@
       <Item value="if" priority="12" />
       <Item value="e" priority="13" />
       <Item value="Up" priority="0" />
-      <Item value="Left" priority="3" />
+      <Item value="Left" priority="4" />
       <Item value="Width" priority="4" />
-      <Item value="Top" priority="1" />
+      <Item value="Top" priority="2" />
       <Item value="else" priority="5" />
       <Item value="this" priority="2" />
       <Item value="Down" priority="0" />
-      <Item value="Window`0" priority="15" />
+      <Item value="Window`0" priority="16" />
       <Item value="Char`0" priority="0" />
       <Item value="win" priority="3" />
       <Item value="ThreeDBorderWindow" priority="0" />
       <Item value="CanResizeWithGrip" priority="0" />
-      <Item value="using" priority="24" />
-      <Item value="System" priority="31" />
-      <Item value="Windows" priority="33" />
-      <Item value="Media" priority="13" />
+      <Item value="using" priority="25" />
+      <Item value="System" priority="32" />
+      <Item value="Windows" priority="34" />
+      <Item value="Media" priority="14" />
       <Item value="SolidColorBrush`0" priority="1" />
       <Item value="Color`0" priority="2" />
       <Item value="Input" priority="7" />
@@ -141,7 +141,7 @@
       <Item value="ContentTemplateSelectorProperty" priority="1" />
       <Item value="DateTime`0" priority="0" />
       <Item value="RecordKeyStrokes`0" priority="0" />
-      <Item value="Content" priority="6" />
+      <Item value="Content" priority="7" />
       <Item value="string" priority="3" />
       <Item value="as" priority="1" />
       <Item value="str" priority="5" />
@@ -152,17 +152,17 @@
       <Item value="build" priority="5" />
       <Item value="Text.RegularExpressions" priority="0" />
       <Item value="Controls" priority="3" />
-      <Item value="Imaging" priority="0" />
+      <Item value="Imaging" priority="1" />
       <Item value="ShowMyFace`0" priority="0" />
-      <Item value="Uri`0" priority="0" />
-      <Item value="uri" priority="1" />
-      <Item value="Uri" priority="0" />
-      <Item value="BitmapImage`0" priority="0" />
-      <Item value="BitmapImage" priority="0" />
-      <Item value="Image`0" priority="0" />
-      <Item value="Image" priority="0" />
-      <Item value="img" priority="7" />
-      <Item value="bitmap" priority="0" />
+      <Item value="Uri`0" priority="1" />
+      <Item value="uri" priority="2" />
+      <Item value="Uri" priority="1" />
+      <Item value="BitmapImage`0" priority="1" />
+      <Item value="BitmapImage" priority="1" />
+      <Item value="Image`0" priority="1" />
+      <Item value="Image" priority="1" />
+      <Item value="img" priority="10" />
+      <Item value="bitmap" priority="1" />
       <Item value="Fill" priority="0" />
       <Item value="VerticalAlignment" priority="0" />
       <Item value="NetPipeStyleUriParser`0" priority="0" />
@@ -204,17 +204,20 @@
       <Item value="SimpleEllipse" priority="0" />
       <Item value="RenderTheGraphic`0" priority="1" />
       <Item value="ClickTheButton`0" priority="0" />
-      <Item value="Button`0" priority="1" />
-      <Item value="Button" priority="1" />
-      <Item value="btn" priority="14" />
+      <Item value="Button`0" priority="2" />
+      <Item value="Button" priority="2" />
+      <Item value="btn" priority="18" />
       <Item value="MessageBox`0" priority="0" />
       <Item value="HorizontalAlignment" priority="0" />
       <Item value="Bottom" priority="0" />
       <Item value="FormatTheButton`0" priority="0" />
       <Item value="txtBlk" priority="9" />
+      <Item value="ImageTheButton`0" priority="0" />
+      <Item value="StylusEnterEvent" priority="0" />
+      <Item value="None" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Application">
-      <Item value="Run`0" priority="17" />
+      <Item value="Run`0" priority="18" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Input.KeyEventArgs">
       <Item value="Key" priority="3" />
@@ -290,7 +293,7 @@
       <Item value="CompareTo`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Media.Brushes">
-      <Item value="Black" priority="1" />
+      <Item value="Black" priority="2" />
       <Item value="SaddleBrown" priority="1" />
       <Item value="AliceBlue" priority="0" />
       <Item value="Blue" priority="0" />
@@ -372,8 +375,8 @@
       <Item value="Append`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Controls.Image">
-      <Item value="Source" priority="0" />
-      <Item value="Stretch" priority="0" />
+      <Item value="Source" priority="1" />
+      <Item value="Stretch" priority="2" />
       <Item value="HorizontalAlignment" priority="0" />
       <Item value="VerticalAlignment" priority="0" />
       <Item value="Margin" priority="0" />
@@ -388,6 +391,7 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.VerticalAlignment">
       <Item value="Top" priority="0" />
+      <Item value="Center" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Int32">
       <Item value="CompareTo`0" priority="0" />
@@ -420,11 +424,11 @@
       <Item value="Height" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Controls.Button">
-      <Item value="Content" priority="2" />
+      <Item value="Content" priority="3" />
       <Item value="Click" priority="0" />
       <Item value="Margin" priority="0" />
-      <Item value="HorizontalAlignment" priority="2" />
-      <Item value="VerticalAlignment" priority="2" />
+      <Item value="HorizontalAlignment" priority="3" />
+      <Item value="VerticalAlignment" priority="3" />
       <Item value="Padding" priority="0" />
       <Item value="MouseEnter" priority="0" />
       <Item value="MouseLeave" priority="0" />
@@ -434,6 +438,7 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.HorizontalAlignment">
       <Item value="Left" priority="0" />
+      <Item value="Center" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.SystemColors">
       <Item value="ControlTextBrush" priority="0" />
@@ -456,21 +461,18 @@
       <File id="0E4E5C47-E8AB-4085-8517-E129EBC90F07/f:RotateTheGradientOrigin.cs" caret="310" fromTop="12" />
       <File id="F3127646-1C12-4674-B8E4-51C2E9423643/f:AdjustTheGradient.cs" caret="159" fromTop="6" />
       <File id="13D4B6FA-95DD-4033-AFB5-76B1524401FD/f:RecordKeyStrokes.cs" caret="1452" fromTop="52" />
-      <File id="A9F99193-88BF-43E6-B9CA-96FEAD0C5618/f:ShowMyFace.cs" caret="163" fromTop="5" />
       <File id="F7AF5E6C-7984-4D70-A012-46CD2853F993/f:ShapeAnEllipse.cs" caret="195" fromTop="7" />
       <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="0" fromTop="0" />
       <File id="F1249528-E319-4962-A811-30BC6FC44126/f:DisplaySomeText.cs" caret="419" fromTop="6" />
       <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="1261" fromTop="33" />
       <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:RenderTheGraphic.cs" caret="511" fromTop="23" />
       <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:SimpleEllipse.cs" caret="528" fromTop="19" />
-      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="630" fromTop="25" />
-      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="456" fromTop="19" />
+      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="384" fromTop="15" />
+      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="0" fromTop="0" />
+      <File id="A9F99193-88BF-43E6-B9CA-96FEAD0C5618/f:ShowMyFace.cs" caret="0" fromTop="0" />
+      <File id="5C989A72-46BB-4977-8F8C-B31FEDBDD26B/f:ImageTheButton.cs" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="F7AF5E6C-7984-4D70-A012-46CD2853F993/f:ShapeAnEllipse.cs" caret="204" fromTop="7" />
-      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="159" fromTop="5" />
-      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="400" fromTop="15" />
-      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="1079" fromTop="29" />
       <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="629" fromTop="14" />
       <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="998" fromTop="21" />
       <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="465" fromTop="9" />
@@ -496,7 +498,11 @@
       <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="1506" fromTop="21" />
       <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="268" fromTop="12" />
       <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="1356" fromTop="15" />
-      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="1618" fromTop="25" />
+      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="1733" fromTop="53" />
+      <File id="5C989A72-46BB-4977-8F8C-B31FEDBDD26B/f:ImageTheButton.cs" caret="0" fromTop="0" />
+      <File id="5C989A72-46BB-4977-8F8C-B31FEDBDD26B/f:ImageTheButton.cs" caret="196" fromTop="6" />
+      <File id="5C989A72-46BB-4977-8F8C-B31FEDBDD26B/f:ImageTheButton.cs" caret="1021" fromTop="25" />
+      <File id="5C989A72-46BB-4977-8F8C-B31FEDBDD26B/f:ImageTheButton.cs" caret="606" fromTop="14" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

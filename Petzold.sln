@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.ClickTheButtons", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.FormatTheButton", "Petzold.FormatTheButton\Petzold.FormatTheButton.csproj", "{6FD63B24-DA5C-4E36-8A25-1B9FBB88344A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.ImageTheButton", "Petzold.ImageTheButton\Petzold.ImageTheButton.csproj", "{5C989A72-46BB-4977-8F8C-B31FEDBDD26B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -151,6 +153,10 @@ Global
 		{6FD63B24-DA5C-4E36-8A25-1B9FBB88344A}.Debug|x86.Build.0 = Debug|x86
 		{6FD63B24-DA5C-4E36-8A25-1B9FBB88344A}.Release|x86.ActiveCfg = Release|x86
 		{6FD63B24-DA5C-4E36-8A25-1B9FBB88344A}.Release|x86.Build.0 = Release|x86
+		{5C989A72-46BB-4977-8F8C-B31FEDBDD26B}.Debug|x86.ActiveCfg = Debug|x86
+		{5C989A72-46BB-4977-8F8C-B31FEDBDD26B}.Debug|x86.Build.0 = Debug|x86
+		{5C989A72-46BB-4977-8F8C-B31FEDBDD26B}.Release|x86.ActiveCfg = Release|x86
+		{5C989A72-46BB-4977-8F8C-B31FEDBDD26B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -179,5 +185,6 @@ Global
 		{0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A} = {49672056-5A85-4EBE-A6DB-CAD036FEE09D}
 		{AD2C037F-92C4-4CD9-A400-D6D9E8FB875D} = {9AD4B337-D60F-4785-A2AA-D08CC3E5899D}
 		{6FD63B24-DA5C-4E36-8A25-1B9FBB88344A} = {9AD4B337-D60F-4785-A2AA-D08CC3E5899D}
+		{5C989A72-46BB-4977-8F8C-B31FEDBDD26B} = {9AD4B337-D60F-4785-A2AA-D08CC3E5899D}
 	EndGlobalSection
 EndGlobal
