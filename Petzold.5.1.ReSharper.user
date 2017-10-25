@@ -9,39 +9,39 @@
   </SettingsComponent>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="23" />
+      <Item value="public" priority="30" />
       <Item value="class" priority="9" />
-      <Item value="STAThread" priority="18" />
-      <Item value="psvm" priority="18" />
-      <Item value="Application`0" priority="23" />
-      <Item value="new" priority="116" />
-      <Item value="Application" priority="18" />
-      <Item value="app" priority="18" />
+      <Item value="STAThread" priority="24" />
+      <Item value="psvm" priority="24" />
+      <Item value="Application`0" priority="28" />
+      <Item value="new" priority="139" />
+      <Item value="Application" priority="23" />
+      <Item value="app" priority="23" />
       <Item value="GrowAndShrink`0" priority="0" />
-      <Item value="Title" priority="18" />
-      <Item value="WindowStartupLocation" priority="1" />
+      <Item value="Title" priority="26" />
+      <Item value="WindowStartupLocation" priority="2" />
       <Item value="CenterScreen" priority="1" />
       <Item value="WidthProperty" priority="0" />
       <Item value="Height" priority="5" />
-      <Item value="protected" priority="6" />
-      <Item value="override" priority="7" />
-      <Item value="if" priority="12" />
-      <Item value="e" priority="13" />
+      <Item value="protected" priority="9" />
+      <Item value="override" priority="10" />
+      <Item value="if" priority="14" />
+      <Item value="e" priority="15" />
       <Item value="Up" priority="0" />
       <Item value="Left" priority="4" />
       <Item value="Width" priority="4" />
       <Item value="Top" priority="2" />
       <Item value="else" priority="5" />
-      <Item value="this" priority="2" />
+      <Item value="this" priority="4" />
       <Item value="Down" priority="0" />
-      <Item value="Window`0" priority="16" />
+      <Item value="Window`0" priority="22" />
       <Item value="Char`0" priority="0" />
       <Item value="win" priority="3" />
       <Item value="ThreeDBorderWindow" priority="0" />
       <Item value="CanResizeWithGrip" priority="0" />
-      <Item value="using" priority="25" />
-      <Item value="System" priority="32" />
-      <Item value="Windows" priority="34" />
+      <Item value="using" priority="28" />
+      <Item value="System" priority="35" />
+      <Item value="Windows" priority="35" />
       <Item value="Media" priority="14" />
       <Item value="SolidColorBrush`0" priority="1" />
       <Item value="Color`0" priority="2" />
@@ -49,16 +49,16 @@
       <Item value="SolidColorBrush" priority="0" />
       <Item value="Colors`0" priority="17" />
       <Item value="VaryTheBackground`0" priority="0" />
-      <Item value="TitleProperty" priority="3" />
+      <Item value="TitleProperty" priority="5" />
       <Item value="HeightProperty" priority="0" />
-      <Item value="Background" priority="7" />
+      <Item value="Background" priority="8" />
       <Item value="brush" priority="34" />
       <Item value="double" priority="9" />
       <Item value="ActualWidth" priority="2" />
       <Item value="SystemParameters`0" priority="6" />
       <Item value="ActualHeight" priority="2" />
       <Item value="Point`0" priority="8" />
-      <Item value="args" priority="3" />
+      <Item value="args" priority="4" />
       <Item value="Point" priority="15" />
       <Item value="width" priority="4" />
       <Item value="Math`0" priority="6" />
@@ -96,8 +96,8 @@
       <Item value="AdjustTheGradient`0" priority="0" />
       <Item value="SizeChanged" priority="0" />
       <Item value="Absolute" priority="0" />
-      <Item value="void" priority="2" />
-      <Item value="object" priority="1" />
+      <Item value="void" priority="3" />
+      <Item value="object" priority="2" />
       <Item value="SizeChangedEventArgs`0" priority="0" />
       <Item value="VerticalContentAlignmentProperty" priority="0" />
       <Item value="vectDiag" priority="2" />
@@ -124,7 +124,7 @@
       <Item value="MaxWidthProperty" priority="0" />
       <Item value="BorderThicknessProperty" priority="0" />
       <Item value="BorderThickness" priority="1" />
-      <Item value="Thickness" priority="4" />
+      <Item value="Thickness" priority="5" />
       <Item value="grBrush" priority="1" />
       <Item value="BorderBrush" priority="1" />
       <Item value="DisplaySomeText`0" priority="0" />
@@ -136,14 +136,14 @@
       <Item value="FontWeight" priority="1" />
       <Item value="FontWeights`0" priority="2" />
       <Item value="Foreground" priority="0" />
-      <Item value="SizeToContent" priority="0" />
-      <Item value="WidthAndHeight" priority="0" />
+      <Item value="SizeToContent" priority="1" />
+      <Item value="WidthAndHeight" priority="1" />
       <Item value="ContentTemplateSelectorProperty" priority="1" />
-      <Item value="DateTime`0" priority="0" />
+      <Item value="DateTime`0" priority="1" />
       <Item value="RecordKeyStrokes`0" priority="0" />
-      <Item value="Content" priority="7" />
-      <Item value="string" priority="3" />
-      <Item value="as" priority="1" />
+      <Item value="Content" priority="13" />
+      <Item value="string" priority="5" />
+      <Item value="as" priority="2" />
       <Item value="str" priority="5" />
       <Item value="AreAnyTouchesOverProperty" priority="0" />
       <Item value="ContextMenuProperty" priority="2" />
@@ -151,18 +151,18 @@
       <Item value="StringBuilder" priority="0" />
       <Item value="build" priority="5" />
       <Item value="Text.RegularExpressions" priority="0" />
-      <Item value="Controls" priority="3" />
+      <Item value="Controls" priority="4" />
       <Item value="Imaging" priority="1" />
       <Item value="ShowMyFace`0" priority="0" />
       <Item value="Uri`0" priority="1" />
       <Item value="uri" priority="2" />
-      <Item value="Uri" priority="1" />
-      <Item value="BitmapImage`0" priority="1" />
+      <Item value="Uri" priority="3" />
+      <Item value="BitmapImage`0" priority="2" />
       <Item value="BitmapImage" priority="1" />
       <Item value="Image`0" priority="1" />
       <Item value="Image" priority="1" />
-      <Item value="img" priority="10" />
-      <Item value="bitmap" priority="1" />
+      <Item value="img" priority="11" />
+      <Item value="bitmap" priority="2" />
       <Item value="Fill" priority="0" />
       <Item value="VerticalAlignment" priority="0" />
       <Item value="NetPipeStyleUriParser`0" priority="0" />
@@ -181,18 +181,18 @@
       <Item value="TextBlock" priority="2" />
       <Item value="txt" priority="10" />
       <Item value="Bold`0" priority="0" />
-      <Item value="Wrap" priority="0" />
+      <Item value="Wrap" priority="1" />
       <Item value="FontEastAsianWidths`0" priority="0" />
       <Item value="ToggleBoldAndItalic`0" priority="0" />
       <Item value="text" priority="5" />
-      <Item value="Center" priority="6" />
+      <Item value="Center" priority="12" />
       <Item value="strQuote" priority="0" />
       <Item value="foreach" priority="0" />
       <Item value="Run`0" priority="5" />
       <Item value="Run" priority="0" />
       <Item value="strWord" priority="0" />
       <Item value="run" priority="3" />
-      <Item value="sender" priority="0" />
+      <Item value="sender" priority="1" />
       <Item value="AddChild`0" priority="0" />
       <Item value="FrameworkElement`0" priority="0" />
       <Item value="drawingContext" priority="0" />
@@ -204,10 +204,10 @@
       <Item value="SimpleEllipse" priority="0" />
       <Item value="RenderTheGraphic`0" priority="1" />
       <Item value="ClickTheButton`0" priority="0" />
-      <Item value="Button`0" priority="2" />
-      <Item value="Button" priority="2" />
-      <Item value="btn" priority="18" />
-      <Item value="MessageBox`0" priority="0" />
+      <Item value="Button`0" priority="3" />
+      <Item value="Button" priority="3" />
+      <Item value="btn" priority="40" />
+      <Item value="MessageBox`0" priority="4" />
       <Item value="HorizontalAlignment" priority="0" />
       <Item value="Bottom" priority="0" />
       <Item value="FormatTheButton`0" priority="0" />
@@ -215,16 +215,72 @@
       <Item value="ImageTheButton`0" priority="0" />
       <Item value="StylusEnterEvent" priority="0" />
       <Item value="None" priority="0" />
+      <Item value="uriKind" priority="0" />
+      <Item value="UriKind`0" priority="0" />
+      <Item value="CommandTheButton`0" priority="0" />
+      <Item value="ApplicationCommands`0" priority="2" />
+      <Item value="CommandBinding`0" priority="0" />
+      <Item value="CommandBinding" priority="0" />
+      <Item value="Clipboard`0" priority="1" />
+      <Item value="Primitives" priority="0" />
+      <Item value="ToggleButton`0" priority="5" />
+      <Item value="TouchUpEvent" priority="0" />
+      <Item value="ToggleButton" priority="1" />
+      <Item value="ResizeMode" priority="3" />
+      <Item value="CanResize" priority="0" />
+      <Item value="RoutedEventArgs`0" priority="0" />
+      <Item value="ButtonBase`0" priority="0" />
+      <Item value="CheckBox`0" priority="0" />
+      <Item value="BindingGroupProperty" priority="0" />
+      <Item value="BindTheButton`0" priority="0" />
+      <Item value="ToolTip" priority="1" />
+      <Item value="tip" priority="1" />
+      <Item value="TextBox`0" priority="1" />
+      <Item value="UriDialog`0" priority="1" />
+      <Item value="ShowInTaskbar" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="WindowStyle" priority="0" />
+      <Item value="ToolWindow" priority="0" />
+      <Item value="CenterOwner" priority="0" />
+      <Item value="txtBox" priority="22" />
+      <Item value="TextBox" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="Enter" priority="0" />
+      <Item value="Close`0" priority="0" />
+      <Item value="NavigateTheWeb`0" priority="0" />
+      <Item value="Frame`0" priority="0" />
+      <Item value="Frame" priority="0" />
+      <Item value="frm" priority="1" />
+      <Item value="Loaded" priority="0" />
+      <Item value="UriDialog" priority="0" />
+      <Item value="dlg" priority="3" />
+      <Item value="try" priority="2" />
+      <Item value="ex" priority="1" />
+      <Item value="ComponentModel" priority="0" />
+      <Item value="IO" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="Path`0" priority="1" />
+      <Item value="Environment`0" priority="0" />
+      <Item value="EditSomeText`0" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="Auto" priority="0" />
+      <Item value="File`0" priority="1" />
+      <Item value="strFileName" priority="2" />
+      <Item value="Directory`0" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="YesNo" priority="0" />
+      <Item value="TextInputEvent" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Application">
-      <Item value="Run`0" priority="18" />
+      <Item value="Run`0" priority="23" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Input.KeyEventArgs">
-      <Item value="Key" priority="3" />
+      <Item value="Key" priority="4" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.String">
       <Item value="Substring`0" priority="1" />
-      <Item value="Length" priority="3" />
+      <Item value="Length" priority="6" />
       <Item value="Split`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Input.TextCompositionEventArgs">
@@ -364,7 +420,7 @@
       <Item value="Normal" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.DateTime">
-      <Item value="Now" priority="0" />
+      <Item value="Now" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.EventArgs">
       <Item value="Empty" priority="0" />
@@ -385,9 +441,10 @@
       <Item value="LayoutTransform" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Media.Stretch">
-      <Item value="None" priority="0" />
+      <Item value="None" priority="1" />
       <Item value="UniformToFill" priority="0" />
       <Item value="Uniform" priority="0" />
+      <Item value="Fill" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.VerticalAlignment">
       <Item value="Top" priority="0" />
@@ -424,17 +481,20 @@
       <Item value="Height" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Controls.Button">
-      <Item value="Content" priority="3" />
+      <Item value="Content" priority="4" />
       <Item value="Click" priority="0" />
       <Item value="Margin" priority="0" />
-      <Item value="HorizontalAlignment" priority="3" />
-      <Item value="VerticalAlignment" priority="3" />
+      <Item value="HorizontalAlignment" priority="4" />
+      <Item value="VerticalAlignment" priority="4" />
       <Item value="Padding" priority="0" />
       <Item value="MouseEnter" priority="0" />
       <Item value="MouseLeave" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="Command" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.MessageBox">
-      <Item value="Show`0" priority="0" />
+      <Item value="Show`0" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.HorizontalAlignment">
       <Item value="Left" priority="0" />
@@ -443,11 +503,98 @@
     <ItemStatistics item="Qualified:@System.Windows.SystemColors">
       <Item value="ControlTextBrush" priority="0" />
     </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.UriKind">
+      <Item value="Relative" priority="0" />
+      <Item value="Absolute" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Input.ApplicationCommands">
+      <Item value="Paste" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.RoutedUICommand">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.CommandBindingCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Clipboard">
+      <Item value="GetText`0" priority="0" />
+      <Item value="ContainsText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.CanExecuteRoutedEventArgs">
+      <Item value="CanExecute" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Primitives.ToggleButton">
+      <Item value="Content" priority="1" />
+      <Item value="HorizontalAlignment" priority="1" />
+      <Item value="VerticalAlignment" priority="1" />
+      <Item value="IsChecked" priority="2" />
+      <Item value="Checked" priority="0" />
+      <Item value="Unchecked" priority="0" />
+      <Item value="SetBinding`0" priority="0" />
+      <Item value="DataContext" priority="0" />
+      <Item value="ToolTip" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.ResizeMode">
+      <Item value="CanResize" priority="0" />
+      <Item value="NoResize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Primitives.ToggleButton">
+      <Item value="IsCheckedProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ToolTip">
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Margin" priority="0" />
+      <Item value="Focus`0" priority="1" />
+      <Item value="Text" priority="5" />
+      <Item value="SelectionStart" priority="1" />
+      <Item value="AcceptsReturn" priority="0" />
+      <Item value="TextWrapping" priority="0" />
+      <Item value="VerticalScrollBarVisibility" priority="0" />
+      <Item value="KeyDown" priority="0" />
+      <Item value="CaretIndex" priority="1" />
+      <Item value="SelectedText" priority="0" />
+      <Item value="SelectionLength" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Petzold.UriDialog.UriDialog">
+      <Item value="Owner" priority="0" />
+      <Item value="Text" priority="1" />
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Frame">
+      <Item value="Source" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="Combine`0" priority="0" />
+      <Item value="GetDirectoryName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="GetFolderPath`0" priority="0" />
+      <Item value="SpecialFolder`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment+SpecialFolder">
+      <Item value="LocalApplicationData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="ReadAllText`0" priority="0" />
+      <Item value="WriteAllText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="CreateDirectory`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxImage">
+      <Item value="Exclamation" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
   </CompletionStatisticsManager>
   <RecentFiles>
     <RecentFiles>
-      <File id="7EE5C344-E918-4400-B614-EB955DFB114D/f:Petzold.GrowAndShrink.cs" caret="819" fromTop="31" />
-      <File id="812957FA-3010-49FB-AAB6-ABCDA85307C2/f:Petzold.HandleAnEvent.cs" caret="103" fromTop="5" />
       <File id="7B1FCD23-79D1-4058-A2CA-CBBAAAB8B572/f:MyWindow.cs" caret="106" fromTop="4" />
       <File id="A104DFC0-B59C-459D-9D02-AFFA0BE74234/f:TypeTourTitle.cs" caret="695" fromTop="24" />
       <File id="84CF3442-DD45-4B78-91E4-9948F9138316/f:InheritTheApp.cs" caret="461" fromTop="6" />
@@ -467,42 +614,48 @@
       <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="1261" fromTop="33" />
       <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:RenderTheGraphic.cs" caret="511" fromTop="23" />
       <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:SimpleEllipse.cs" caret="528" fromTop="19" />
-      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="384" fromTop="15" />
       <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="0" fromTop="0" />
-      <File id="A9F99193-88BF-43E6-B9CA-96FEAD0C5618/f:ShowMyFace.cs" caret="0" fromTop="0" />
+      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="821" fromTop="22" />
+      <File id="A9F99193-88BF-43E6-B9CA-96FEAD0C5618/f:ShowMyFace.cs" caret="578" fromTop="12" />
       <File id="5C989A72-46BB-4977-8F8C-B31FEDBDD26B/f:ImageTheButton.cs" caret="0" fromTop="0" />
+      <File id="7806ABEC-3CB9-42F7-A6EF-C38B63DDF7D7/f:CommandTheButton.cs" caret="0" fromTop="0" />
+      <File id="CF61182A-D19C-4011-9F66-ED0E59FFDDA3/f:ToggleTheButton.cs" caret="0" fromTop="0" />
+      <File id="36E7C956-6447-40B4-B244-C25737A18015/f:BindTheButton.cs" caret="0" fromTop="0" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:UriDialog.cs" caret="0" fromTop="0" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:NavigateTheWeb.cs" caret="0" fromTop="0" />
+      <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="2077" fromTop="53" />
     </RecentFiles>
     <RecentEdits>
-      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="629" fromTop="14" />
-      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="998" fromTop="21" />
-      <File id="3DD9F14A-0817-4DB4-8A6F-53F9DE3520B8/f:FormatTheText.cs" caret="465" fromTop="9" />
-      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="0" fromTop="0" />
-      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="159" fromTop="5" />
-      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="512" fromTop="15" />
-      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="1144" fromTop="24" />
-      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="1774" fromTop="27" />
-      <File id="6CD22768-7D7E-43CF-871D-D190361227EB/f:ToggleBoldAndItalic.cs" caret="1270" fromTop="21" />
-      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:SimpleEllipse.cs" caret="67" fromTop="3" />
-      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:SimpleEllipse.cs" caret="503" fromTop="15" />
-      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:RenderTheGraphic.cs" caret="36" fromTop="1" />
-      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:RenderTheGraphic.cs" caret="315" fromTop="19" />
-      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:RenderTheGraphic.cs" caret="499" fromTop="20" />
-      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:RenderTheGraphic.cs" caret="342" fromTop="15" />
-      <File id="0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A/f:SimpleEllipse.cs" caret="528" fromTop="19" />
-      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="128" fromTop="5" />
-      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="194" fromTop="9" />
-      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="1191" fromTop="23" />
-      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="953" fromTop="17" />
-      <File id="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D/f:ClickTheButtons.cs" caret="639" fromTop="25" />
-      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="159" fromTop="5" />
-      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="1506" fromTop="21" />
-      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="268" fromTop="12" />
-      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="1356" fromTop="15" />
-      <File id="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A/f:FormatTheButton.cs" caret="1733" fromTop="53" />
-      <File id="5C989A72-46BB-4977-8F8C-B31FEDBDD26B/f:ImageTheButton.cs" caret="0" fromTop="0" />
-      <File id="5C989A72-46BB-4977-8F8C-B31FEDBDD26B/f:ImageTheButton.cs" caret="196" fromTop="6" />
-      <File id="5C989A72-46BB-4977-8F8C-B31FEDBDD26B/f:ImageTheButton.cs" caret="1021" fromTop="25" />
-      <File id="5C989A72-46BB-4977-8F8C-B31FEDBDD26B/f:ImageTheButton.cs" caret="606" fromTop="14" />
+      <File id="7806ABEC-3CB9-42F7-A6EF-C38B63DDF7D7/f:CommandTheButton.cs" caret="1113" fromTop="11" />
+      <File id="7806ABEC-3CB9-42F7-A6EF-C38B63DDF7D7/f:CommandTheButton.cs" caret="1282" fromTop="22" />
+      <File id="CF61182A-D19C-4011-9F66-ED0E59FFDDA3/f:ToggleTheButton.cs" caret="0" fromTop="0" />
+      <File id="CF61182A-D19C-4011-9F66-ED0E59FFDDA3/f:ToggleTheButton.cs" caret="111" fromTop="3" />
+      <File id="CF61182A-D19C-4011-9F66-ED0E59FFDDA3/f:ToggleTheButton.cs" caret="1252" fromTop="26" />
+      <File id="CF61182A-D19C-4011-9F66-ED0E59FFDDA3/f:ToggleTheButton.cs" caret="543" fromTop="12" />
+      <File id="CF61182A-D19C-4011-9F66-ED0E59FFDDA3/f:ToggleTheButton.cs" caret="994" fromTop="20" />
+      <File id="36E7C956-6447-40B4-B244-C25737A18015/f:BindTheButton.cs" caret="0" fromTop="0" />
+      <File id="36E7C956-6447-40B4-B244-C25737A18015/f:BindTheButton.cs" caret="169" fromTop="5" />
+      <File id="36E7C956-6447-40B4-B244-C25737A18015/f:BindTheButton.cs" caret="1071" fromTop="27" />
+      <File id="36E7C956-6447-40B4-B244-C25737A18015/f:BindTheButton.cs" caret="804" fromTop="14" />
+      <File id="36E7C956-6447-40B4-B244-C25737A18015/f:BindTheButton.cs" caret="326" fromTop="6" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:UriDialog.cs" caret="0" fromTop="0" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:UriDialog.cs" caret="169" fromTop="5" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:UriDialog.cs" caret="957" fromTop="21" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:UriDialog.cs" caret="1108" fromTop="23" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:UriDialog.cs" caret="710" fromTop="9" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:NavigateTheWeb.cs" caret="0" fromTop="0" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:NavigateTheWeb.cs" caret="169" fromTop="5" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:NavigateTheWeb.cs" caret="255" fromTop="11" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:NavigateTheWeb.cs" caret="1098" fromTop="27" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:NavigateTheWeb.cs" caret="1098" fromTop="11" />
+      <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:NavigateTheWeb.cs" caret="674" fromTop="21" />
+      <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="217" fromTop="5" />
+      <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="61" fromTop="2" />
+      <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="1201" fromTop="17" />
+      <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="1236" fromTop="13" />
+      <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="1766" fromTop="25" />
+      <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="2033" fromTop="21" />
+      <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="2361" fromTop="26" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

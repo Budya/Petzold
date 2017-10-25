@@ -23,4 +23,9 @@
   <Module PersistentId="AD2C037F-92C4-4CD9-A400-D6D9E8FB875D" ModuleId="Petzold.ClickTheButtons" />
   <Module PersistentId="6FD63B24-DA5C-4E36-8A25-1B9FBB88344A" ModuleId="Petzold.FormatTheButton" />
   <Module PersistentId="5C989A72-46BB-4977-8F8C-B31FEDBDD26B" ModuleId="Petzold.ImageTheButton" />
+  <Module PersistentId="7806ABEC-3CB9-42F7-A6EF-C38B63DDF7D7" ModuleId="Petzold.CommandTheButton" />
+  <Module PersistentId="CF61182A-D19C-4011-9F66-ED0E59FFDDA3" ModuleId="Petzold.ToggleTheButton" />
+  <Module PersistentId="36E7C956-6447-40B4-B244-C25737A18015" ModuleId="Petzold.BindTheButton" />
+  <Module PersistentId="805536C5-ED4B-4E48-89F2-A8444F8589BB" ModuleId="Petzold.UriDialog" />
+  <Module PersistentId="842F917C-9742-4BEC-ABA4-A46ACAC91FEF" ModuleId="Petzold.EditSomeText" />
 </Modules>
