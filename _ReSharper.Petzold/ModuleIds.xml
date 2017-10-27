@@ -28,4 +28,5 @@
   <Module PersistentId="36E7C956-6447-40B4-B244-C25737A18015" ModuleId="Petzold.BindTheButton" />
   <Module PersistentId="805536C5-ED4B-4E48-89F2-A8444F8589BB" ModuleId="Petzold.UriDialog" />
   <Module PersistentId="842F917C-9742-4BEC-ABA4-A46ACAC91FEF" ModuleId="Petzold.EditSomeText" />
+  <Module PersistentId="A6930C53-3DEA-4932-83EE-3F03B3462BFB" ModuleId="Petzold.EditSomeRichText" />
 </Modules>

@@ -9,30 +9,30 @@
   </SettingsComponent>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="30" />
+      <Item value="public" priority="32" />
       <Item value="class" priority="9" />
-      <Item value="STAThread" priority="24" />
-      <Item value="psvm" priority="24" />
-      <Item value="Application`0" priority="28" />
-      <Item value="new" priority="139" />
-      <Item value="Application" priority="23" />
-      <Item value="app" priority="23" />
+      <Item value="STAThread" priority="25" />
+      <Item value="psvm" priority="25" />
+      <Item value="Application`0" priority="29" />
+      <Item value="new" priority="149" />
+      <Item value="Application" priority="24" />
+      <Item value="app" priority="24" />
       <Item value="GrowAndShrink`0" priority="0" />
-      <Item value="Title" priority="26" />
+      <Item value="Title" priority="27" />
       <Item value="WindowStartupLocation" priority="2" />
       <Item value="CenterScreen" priority="1" />
       <Item value="WidthProperty" priority="0" />
       <Item value="Height" priority="5" />
-      <Item value="protected" priority="9" />
-      <Item value="override" priority="10" />
-      <Item value="if" priority="14" />
-      <Item value="e" priority="15" />
+      <Item value="protected" priority="10" />
+      <Item value="override" priority="11" />
+      <Item value="if" priority="20" />
+      <Item value="e" priority="20" />
       <Item value="Up" priority="0" />
       <Item value="Left" priority="4" />
       <Item value="Width" priority="4" />
       <Item value="Top" priority="2" />
       <Item value="else" priority="5" />
-      <Item value="this" priority="4" />
+      <Item value="this" priority="6" />
       <Item value="Down" priority="0" />
       <Item value="Window`0" priority="22" />
       <Item value="Char`0" priority="0" />
@@ -86,7 +86,7 @@
       <Item value="BindingFlags`0" priority="1" />
       <Item value="index" priority="3" />
       <Item value="Brush`0" priority="1" />
-      <Item value="null" priority="1" />
+      <Item value="null" priority="3" />
       <Item value="Key`0" priority="0" />
       <Item value="Length" priority="1" />
       <Item value="GradientBrush`0" priority="2" />
@@ -141,8 +141,8 @@
       <Item value="ContentTemplateSelectorProperty" priority="1" />
       <Item value="DateTime`0" priority="1" />
       <Item value="RecordKeyStrokes`0" priority="0" />
-      <Item value="Content" priority="13" />
-      <Item value="string" priority="5" />
+      <Item value="Content" priority="14" />
+      <Item value="string" priority="6" />
       <Item value="as" priority="2" />
       <Item value="str" priority="5" />
       <Item value="AreAnyTouchesOverProperty" priority="0" />
@@ -207,7 +207,7 @@
       <Item value="Button`0" priority="3" />
       <Item value="Button" priority="3" />
       <Item value="btn" priority="40" />
-      <Item value="MessageBox`0" priority="4" />
+      <Item value="MessageBox`0" priority="6" />
       <Item value="HorizontalAlignment" priority="0" />
       <Item value="Bottom" priority="0" />
       <Item value="FormatTheButton`0" priority="0" />
@@ -242,7 +242,7 @@
       <Item value="WindowStyle" priority="0" />
       <Item value="ToolWindow" priority="0" />
       <Item value="CenterOwner" priority="0" />
-      <Item value="txtBox" priority="22" />
+      <Item value="txtBox" priority="28" />
       <Item value="TextBox" priority="1" />
       <Item value="value" priority="0" />
       <Item value="return" priority="2" />
@@ -254,37 +254,61 @@
       <Item value="frm" priority="1" />
       <Item value="Loaded" priority="0" />
       <Item value="UriDialog" priority="0" />
-      <Item value="dlg" priority="3" />
-      <Item value="try" priority="2" />
-      <Item value="ex" priority="1" />
+      <Item value="dlg" priority="9" />
+      <Item value="try" priority="4" />
+      <Item value="ex" priority="3" />
       <Item value="ComponentModel" priority="0" />
       <Item value="IO" priority="0" />
       <Item value="static" priority="0" />
       <Item value="Path`0" priority="1" />
       <Item value="Environment`0" priority="0" />
-      <Item value="EditSomeText`0" priority="0" />
-      <Item value="true" priority="0" />
-      <Item value="Auto" priority="0" />
+      <Item value="EditSomeText`0" priority="1" />
+      <Item value="true" priority="3" />
+      <Item value="Auto" priority="1" />
       <Item value="File`0" priority="1" />
       <Item value="strFileName" priority="2" />
       <Item value="Directory`0" priority="0" />
       <Item value="result" priority="0" />
       <Item value="YesNo" priority="0" />
       <Item value="TextInputEvent" priority="1" />
+      <Item value="RichTextBox`0" priority="0" />
+      <Item value="StartupEventArgs`0" priority="0" />
+      <Item value="RichTextBox" priority="0" />
+      <Item value="FlowDocumentPageViewer`0" priority="0" />
+      <Item value="TextRange`0" priority="1" />
+      <Item value="TextRange" priority="1" />
+      <Item value="flow" priority="3" />
+      <Item value="Stream`0" priority="1" />
+      <Item value="strm" priority="7" />
+      <Item value="FileStream`0" priority="1" />
+      <Item value="OpenFileDialog" priority="0" />
+      <Item value="strFilter" priority="1" />
+      <Item value="Open" priority="1" />
+      <Item value="range" priority="1" />
+      <Item value="DataFormat`0" priority="0" />
+      <Item value="finally" priority="1" />
+      <Item value="SaveFileDialog`0" priority="0" />
+      <Item value="SaveFileDialog" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="FlowDocument`0" priority="0" />
+      <Item value="DataFormats`0" priority="0" />
+      <Item value="base" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Application">
-      <Item value="Run`0" priority="23" />
+      <Item value="Run`0" priority="24" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Input.KeyEventArgs">
       <Item value="Key" priority="4" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.String">
       <Item value="Substring`0" priority="1" />
-      <Item value="Length" priority="6" />
+      <Item value="Length" priority="7" />
       <Item value="Split`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Input.TextCompositionEventArgs">
       <Item value="Text" priority="6" />
+      <Item value="ControlText" priority="2" />
+      <Item value="Handled" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Char">
       <Item value="IsControl`0" priority="0" />
@@ -293,6 +317,7 @@
       <Item value="WindowStyle" priority="0" />
       <Item value="ResizeMode" priority="0" />
       <Item value="Background" priority="1" />
+      <Item value="OnPreviewTextInput`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.WindowStyle">
       <Item value="ToolWindow" priority="0" />
@@ -494,7 +519,7 @@
       <Item value="Command" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.MessageBox">
-      <Item value="Show`0" priority="2" />
+      <Item value="Show`0" priority="4" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.HorizontalAlignment">
       <Item value="Left" priority="0" />
@@ -566,7 +591,7 @@
       <Item value="Source" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Exception">
-      <Item value="Message" priority="1" />
+      <Item value="Message" priority="3" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.IO.Path">
       <Item value="Combine`0" priority="0" />
@@ -591,6 +616,41 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.DateTime">
       <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RichTextBox">
+      <Item value="AcceptsReturn" priority="0" />
+      <Item value="VerticalScrollBarVisibility" priority="0" />
+      <Item value="Focus`0" priority="1" />
+      <Item value="Document" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.FlowDocument">
+      <Item value="ContentStart" priority="0" />
+      <Item value="ContentEnd" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.OpenFileDialog">
+      <Item value="CheckFileExists" priority="0" />
+      <Item value="Filter" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.TextRange">
+      <Item value="Load`0" priority="0" />
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.DataFormats">
+      <Item value="Xaml" priority="0" />
+      <Item value="XamlPackage" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Close`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.SaveFileDialog">
+      <Item value="Filter" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Create" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <RecentFiles>
@@ -623,17 +683,10 @@
       <File id="36E7C956-6447-40B4-B244-C25737A18015/f:BindTheButton.cs" caret="0" fromTop="0" />
       <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:UriDialog.cs" caret="0" fromTop="0" />
       <File id="805536C5-ED4B-4E48-89F2-A8444F8589BB/f:NavigateTheWeb.cs" caret="0" fromTop="0" />
-      <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="2077" fromTop="53" />
+      <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="0" fromTop="0" />
+      <File id="A6930C53-3DEA-4932-83EE-3F03B3462BFB/f:EditSomeText.cs" caret="3383" fromTop="23" />
     </RecentFiles>
     <RecentEdits>
-      <File id="7806ABEC-3CB9-42F7-A6EF-C38B63DDF7D7/f:CommandTheButton.cs" caret="1113" fromTop="11" />
-      <File id="7806ABEC-3CB9-42F7-A6EF-C38B63DDF7D7/f:CommandTheButton.cs" caret="1282" fromTop="22" />
-      <File id="CF61182A-D19C-4011-9F66-ED0E59FFDDA3/f:ToggleTheButton.cs" caret="0" fromTop="0" />
-      <File id="CF61182A-D19C-4011-9F66-ED0E59FFDDA3/f:ToggleTheButton.cs" caret="111" fromTop="3" />
-      <File id="CF61182A-D19C-4011-9F66-ED0E59FFDDA3/f:ToggleTheButton.cs" caret="1252" fromTop="26" />
-      <File id="CF61182A-D19C-4011-9F66-ED0E59FFDDA3/f:ToggleTheButton.cs" caret="543" fromTop="12" />
-      <File id="CF61182A-D19C-4011-9F66-ED0E59FFDDA3/f:ToggleTheButton.cs" caret="994" fromTop="20" />
-      <File id="36E7C956-6447-40B4-B244-C25737A18015/f:BindTheButton.cs" caret="0" fromTop="0" />
       <File id="36E7C956-6447-40B4-B244-C25737A18015/f:BindTheButton.cs" caret="169" fromTop="5" />
       <File id="36E7C956-6447-40B4-B244-C25737A18015/f:BindTheButton.cs" caret="1071" fromTop="27" />
       <File id="36E7C956-6447-40B4-B244-C25737A18015/f:BindTheButton.cs" caret="804" fromTop="14" />
@@ -656,6 +709,14 @@
       <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="1766" fromTop="25" />
       <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="2033" fromTop="21" />
       <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="2361" fromTop="26" />
+      <File id="842F917C-9742-4BEC-ABA4-A46ACAC91FEF/f:EditSomeText.cs" caret="2408" fromTop="19" />
+      <File id="A6930C53-3DEA-4932-83EE-3F03B3462BFB/f:EditSomeText.cs" caret="0" fromTop="0" />
+      <File id="A6930C53-3DEA-4932-83EE-3F03B3462BFB/f:EditSomeText.cs" caret="250" fromTop="7" />
+      <File id="A6930C53-3DEA-4932-83EE-3F03B3462BFB/f:EditSomeText.cs" caret="2257" fromTop="27" />
+      <File id="A6930C53-3DEA-4932-83EE-3F03B3462BFB/f:EditSomeText.cs" caret="1453" fromTop="14" />
+      <File id="A6930C53-3DEA-4932-83EE-3F03B3462BFB/f:EditSomeText.cs" caret="3406" fromTop="7" />
+      <File id="A6930C53-3DEA-4932-83EE-3F03B3462BFB/f:EditSomeText.cs" caret="3119" fromTop="27" />
+      <File id="A6930C53-3DEA-4932-83EE-3F03B3462BFB/f:EditSomeText.cs" caret="3381" fromTop="23" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

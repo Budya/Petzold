@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.UriDialog", "Petzol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.EditSomeText", "Petzold.EditSomeText\Petzold.EditSomeText.csproj", "{842F917C-9742-4BEC-ABA4-A46ACAC91FEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.EditSomeRichText", "Petzold.EditSomeRichText\Petzold.EditSomeRichText.csproj", "{A6930C53-3DEA-4932-83EE-3F03B3462BFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -187,6 +189,10 @@ Global
 		{842F917C-9742-4BEC-ABA4-A46ACAC91FEF}.Debug|x86.Build.0 = Debug|x86
 		{842F917C-9742-4BEC-ABA4-A46ACAC91FEF}.Release|x86.ActiveCfg = Release|x86
 		{842F917C-9742-4BEC-ABA4-A46ACAC91FEF}.Release|x86.Build.0 = Release|x86
+		{A6930C53-3DEA-4932-83EE-3F03B3462BFB}.Debug|x86.ActiveCfg = Debug|x86
+		{A6930C53-3DEA-4932-83EE-3F03B3462BFB}.Debug|x86.Build.0 = Debug|x86
+		{A6930C53-3DEA-4932-83EE-3F03B3462BFB}.Release|x86.ActiveCfg = Release|x86
+		{A6930C53-3DEA-4932-83EE-3F03B3462BFB}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -221,5 +227,6 @@ Global
 		{36E7C956-6447-40B4-B244-C25737A18015} = {9AD4B337-D60F-4785-A2AA-D08CC3E5899D}
 		{805536C5-ED4B-4E48-89F2-A8444F8589BB} = {9AD4B337-D60F-4785-A2AA-D08CC3E5899D}
 		{842F917C-9742-4BEC-ABA4-A46ACAC91FEF} = {9AD4B337-D60F-4785-A2AA-D08CC3E5899D}
+		{A6930C53-3DEA-4932-83EE-3F03B3462BFB} = {9AD4B337-D60F-4785-A2AA-D08CC3E5899D}
 	EndGlobalSection
 EndGlobal
