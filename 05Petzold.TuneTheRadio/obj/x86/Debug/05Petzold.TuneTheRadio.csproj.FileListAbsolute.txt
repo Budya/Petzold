@@ -1,0 +1,5 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\05Petzold.TuneTheRadio\bin\Debug\05Petzold.TuneTheRadio.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\05Petzold.TuneTheRadio\bin\Debug\05Petzold.TuneTheRadio.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\05Petzold.TuneTheRadio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\05Petzold.TuneTheRadio\obj\x86\Debug\05Petzold.TuneTheRadio.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\05Petzold.TuneTheRadio\obj\x86\Debug\05Petzold.TuneTheRadio.pdb

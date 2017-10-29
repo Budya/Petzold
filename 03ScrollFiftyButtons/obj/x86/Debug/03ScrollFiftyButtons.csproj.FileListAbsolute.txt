@@ -1,0 +1,5 @@
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\03ScrollFiftyButtons\bin\Debug\03ScrollFiftyButtons.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\03ScrollFiftyButtons\bin\Debug\03ScrollFiftyButtons.pdb
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\03ScrollFiftyButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\03ScrollFiftyButtons\obj\x86\Debug\03ScrollFiftyButtons.exe
+D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\03ScrollFiftyButtons\obj\x86\Debug\03ScrollFiftyButtons.pdb
