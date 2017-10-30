@@ -31,6 +31,7 @@ namespace _03Petzold.CalculateYourLife
 
             // Cоздание объекта Grid
             Grid grid = new Grid();
+            grid.ShowGridLines = true;
             Content = grid;
 
             //Defining Rows & Collumns
@@ -49,10 +50,10 @@ namespace _03Petzold.CalculateYourLife
             }
 
             // Первый объект Label
-            Label lblBeg = new Label();
-            lblBeg.Content = "Begin Date: ";
-            Grid.SetRow(lblBeg, 0);
-            Grid.SetColumn(lblBeg, 0);
+            Label lbl = new Label();
+            lbl.Content = "Begin Date: ";
+            Grid.SetRow(lbl, 0);
+            Grid.SetColumn(lbl, 0);
 
             // Первый объект TextBox
             txtBoxBegin = new TextBox();
