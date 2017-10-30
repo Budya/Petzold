@@ -1,5 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ClickTheGradientCenter\bin\Debug\Petzold.ClickTheGradientCenter.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ClickTheGradientCenter\bin\Debug\Petzold.ClickTheGradientCenter.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ClickTheGradientCenter\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ClickTheGradientCenter\obj\x86\Debug\Petzold.ClickTheGradientCenter.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ClickTheGradientCenter\obj\x86\Debug\Petzold.ClickTheGradientCenter.pdb

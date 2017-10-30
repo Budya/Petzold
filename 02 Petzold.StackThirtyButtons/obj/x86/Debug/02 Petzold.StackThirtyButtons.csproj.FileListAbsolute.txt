@@ -1,5 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\02 Petzold.StackThirtyButtons\bin\Debug\02 Petzold.StackThirtyButtons.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\02 Petzold.StackThirtyButtons\bin\Debug\02 Petzold.StackThirtyButtons.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\02 Petzold.StackThirtyButtons\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\02 Petzold.StackThirtyButtons\obj\x86\Debug\02 Petzold.StackThirtyButtons.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\02 Petzold.StackThirtyButtons\obj\x86\Debug\02 Petzold.StackThirtyButtons.pdb

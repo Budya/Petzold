@@ -1,5 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.RecordKeyStrokes\bin\Debug\Petzold.RecordKeyStrokes.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.RecordKeyStrokes\bin\Debug\Petzold.RecordKeyStrokes.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.RecordKeyStrokes\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.RecordKeyStrokes\obj\x86\Debug\Petzold.RecordKeyStrokes.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.RecordKeyStrokes\obj\x86\Debug\Petzold.RecordKeyStrokes.pdb

@@ -1,2 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.StackTenButtons\obj\x86\Debug\Petzold.StackTenButtons.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.StackTenButtons\obj\x86\Debug\Petzold.StackTenButtons.pdb

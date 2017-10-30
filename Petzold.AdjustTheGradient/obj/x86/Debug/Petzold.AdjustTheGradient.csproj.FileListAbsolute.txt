@@ -1,5 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.AdjustTheGradient\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.AdjustTheGradient\bin\Debug\Petzold.AdjustTheGradient.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.AdjustTheGradient\bin\Debug\Petzold.AdjustTheGradient.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.AdjustTheGradient\obj\x86\Debug\Petzold.AdjustTheGradient.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.AdjustTheGradient\obj\x86\Debug\Petzold.AdjustTheGradient.pdb

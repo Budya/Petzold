@@ -1,7 +1,0 @@
-<Modules>
-  <Module PersistentId="F322F4B8-5DEC-406F-B6CB-9BB21DAE7A65" ModuleId="SayHello" />
-  <Module PersistentId="812957FA-3010-49FB-AAB6-ABCDA85307C2" ModuleId="Petzold.HandleAnEvent" />
-  <Module PersistentId="84CF3442-DD45-4B78-91E4-9948F9138316" ModuleId="Petzold.InheritTheApp" />
-  <Module PersistentId="1205921F-0F45-4EB8-8DD0-BB3BBE00009B" ModuleId="Petzold.ThrowWindowParty" />
-  <Module PersistentId="7B1FCD23-79D1-4058-A2CA-CBBAAAB8B572" ModuleId="Petzold.InheritAppAndWindow" />
-</Modules>

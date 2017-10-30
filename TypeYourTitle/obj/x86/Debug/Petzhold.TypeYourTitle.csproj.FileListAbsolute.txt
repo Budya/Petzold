@@ -1,5 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\TypeYourTitle\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\TypeYourTitle\bin\Debug\TypeYourTitle.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\TypeYourTitle\bin\Debug\TypeYourTitle.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\TypeYourTitle\obj\x86\Debug\TypeYourTitle.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\TypeYourTitle\obj\x86\Debug\TypeYourTitle.pdb

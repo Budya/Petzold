@@ -1,5 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.DisplaySomeText\bin\Debug\Petzold.DisplaySomeText.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.DisplaySomeText\bin\Debug\Petzold.DisplaySomeText.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.DisplaySomeText\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.DisplaySomeText\obj\x86\Debug\Petzold.DisplaySomeText.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.DisplaySomeText\obj\x86\Debug\Petzold.DisplaySomeText.pdb

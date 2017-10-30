@@ -1,5 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\04Petzold.DesignAButton\bin\Debug\04Petzold.DesignAButton.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\04Petzold.DesignAButton\bin\Debug\04Petzold.DesignAButton.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\04Petzold.DesignAButton\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\04Petzold.DesignAButton\obj\x86\Debug\04Petzold.DesignAButton.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\04Petzold.DesignAButton\obj\x86\Debug\04Petzold.DesignAButton.pdb

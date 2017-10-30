@@ -1,5 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ClickTheButtons\bin\Debug\Petzold.ClickTheButtons.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ClickTheButtons\bin\Debug\Petzold.ClickTheButtons.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ClickTheButtons\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ClickTheButtons\obj\x86\Debug\Petzold.ClickTheButtons.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.ClickTheButtons\obj\x86\Debug\Petzold.ClickTheButtons.pdb

@@ -1,5 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.BindTheButton\bin\Debug\Petzold.BindTheButton.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.BindTheButton\bin\Debug\Petzold.BindTheButton.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.BindTheButton\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.BindTheButton\obj\x86\Debug\Petzold.BindTheButton.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.BindTheButton\obj\x86\Debug\Petzold.BindTheButton.pdb

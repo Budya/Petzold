@@ -1,5 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.SimpleEllipse\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.SimpleEllipse\bin\Debug\Petzold.SimpleEllipse.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.SimpleEllipse\bin\Debug\Petzold.SimpleEllipse.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.SimpleEllipse\obj\x86\Debug\Petzold.SimpleEllipse.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.SimpleEllipse\obj\x86\Debug\Petzold.SimpleEllipse.pdb

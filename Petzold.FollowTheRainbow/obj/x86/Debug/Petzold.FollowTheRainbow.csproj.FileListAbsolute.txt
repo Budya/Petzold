@@ -1,5 +1,0 @@
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FollowTheRainbow\bin\Debug\Petzold.FollowTheRainbow.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FollowTheRainbow\bin\Debug\Petzold.FollowTheRainbow.pdb
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FollowTheRainbow\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FollowTheRainbow\obj\x86\Debug\Petzold.FollowTheRainbow.exe
-D:\Install\My\ITSTEP\Projects\2017\WPF1\SayHello\Petzold.FollowTheRainbow\obj\x86\Debug\Petzold.FollowTheRainbow.pdb
