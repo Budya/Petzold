@@ -105,11 +105,6 @@ namespace _04Petzold.EnterTheGrid
 
             // Set focus to first textBox
             (stak.Children[0] as Panel).Children[1].Focus();
-
-
-
-
-
         }
     }
 }
