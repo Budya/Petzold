@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Controls.Primitives;
@@ -22,7 +23,7 @@ namespace _02Petzold.SpaceButtons
             set 
             { 
                 txt = value;
-                Content = SpaseOutText(txt);
+                Content = SpaceOutText(txt);
             }
             get { return txt; }
         }
@@ -51,7 +52,8 @@ namespace _02Petzold.SpaceButtons
 
             // Registering DependencyProperty
             SpaceProperty = DependencyProperty.Register("Space", typeof (int),
-                                                        typeof (SpaceButton), metadata,
+                                                        typeof (SpaceButton),
+                                                        metadata,
                                                         ValidateSpaceValue);
         }
 
@@ -60,6 +62,27 @@ namespace _02Petzold.SpaceButtons
         {
             int i = (int) obj;
             return i >= 0;
+        }
+
+        // Method callback for Notify about property changing
+        static  void OnSpacePropertyChanged(DependencyObject obj, 
+            DependencyPropertyChangedEventArgs args)
+        {
+            SpaceButton btn = obj as SpaceButton;
+            btn.Content = btn.SpaceOutText(btn.txt);
+        }
+
+        // Method for insert spaces in text
+        string SpaceOutText(string str)
+        {
+            if (str == null) return null;
+            
+            StringBuilder build = new StringBuilder();
+            foreach (char ch in str)
+            {
+                build.Append(ch + new string(' ', Space));
+            }
+            return build.ToString();
         }
     }
 }
