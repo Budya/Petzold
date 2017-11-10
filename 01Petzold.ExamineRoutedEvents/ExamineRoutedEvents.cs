@@ -100,6 +100,18 @@ namespace _01Petzold.ExamineRoutedEvents
                 el.MouseUp += AllPuroposeEventHandler;
                 el.PreviewMouseDown += AllPuroposeEventHandler;
                 el.PreviewMouseUp += AllPuroposeEventHandler;
+
+                // More for Mouse
+                el.MouseLeftButtonDown += AllPuroposeEventHandler;
+                el.MouseLeftButtonUp += AllPuroposeEventHandler;
+                el.PreviewMouseLeftButtonDown += AllPuroposeEventHandler;
+                el.PreviewMouseLeftButtonUp += AllPuroposeEventHandler;
+
+                el.MouseRightButtonDown += AllPuroposeEventHandler;
+                el.MouseRightButtonUp += AllPuroposeEventHandler;
+                el.PreviewMouseRightButtonDown += AllPuroposeEventHandler;
+                el.PreviewMouseRightButtonUp += AllPuroposeEventHandler;
+
                 
                 // Stilus
                 el.StylusDown += AllPuroposeEventHandler;
