@@ -29,9 +29,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.ClickTheGradientCen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.RotateTheGradientOrigin", "Petzold.RotateTheGradientOrigin\Petzold.RotateTheGradientOrigin.csproj", "{0E4E5C47-E8AB-4085-8517-E129EBC90F07}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-2", "1-2", "{CB441497-027D-4089-AEF1-DE47B0AF0B3E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-2", "01-2", "{CB441497-027D-4089-AEF1-DE47B0AF0B3E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 Soderzimoe", "3 Soderzimoe", "{49672056-5A85-4EBE-A6DB-CAD036FEE09D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Soderzimoe", "03 Soderzimoe", "{49672056-5A85-4EBE-A6DB-CAD036FEE09D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.DisplaySomeText", "Petzold.DisplaySomeText\Petzold.DisplaySomeText.csproj", "{F1249528-E319-4962-A811-30BC6FC44126}"
 EndProject
@@ -47,7 +47,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.ToggleBoldAndItalic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.SimpleEllipse", "Petzold.SimpleEllipse\Petzold.SimpleEllipse.csproj", "{0330FBAC-18E7-4B61-9AD8-CCB0FD625E6A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 Buttons and other", "4 Buttons and other", "{9AD4B337-D60F-4785-A2AA-D08CC3E5899D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Buttons and other", "04 Buttons and other", "{9AD4B337-D60F-4785-A2AA-D08CC3E5899D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.ClickTheButtons", "Petzold.ClickTheButtons\Petzold.ClickTheButtons.csproj", "{AD2C037F-92C4-4CD9-A400-D6D9E8FB875D}"
 EndProject
@@ -67,7 +67,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.EditSomeText", "Pet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petzold.EditSomeRichText", "Petzold.EditSomeRichText\Petzold.EditSomeRichText.csproj", "{A6930C53-3DEA-4932-83EE-3F03B3462BFB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 StackPanek WrapPanel", "5 StackPanek WrapPanel", "{E03AC397-A454-482E-BDC6-D704E93A77F6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 StackPanek WrapPanel", "05 StackPanek WrapPanel", "{E03AC397-A454-482E-BDC6-D704E93A77F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Petzold.StackTenButtons", "Petzold.StackTenButtons\01Petzold.StackTenButtons.csproj", "{7CCF2CDC-47C8-45F3-8E2E-1E437343BEBE}"
 EndProject
@@ -81,7 +81,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Petzold.TuneTheRadio", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Petzold.ExploreDirectories", "06Petzold.ExploreDirectories\06Petzold.ExploreDirectories.csproj", "{1C3B9323-4BC2-401F-AA61-0EB7627630D2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 Dock Grid", "6 Dock Grid", "{CA67D49E-937D-480F-B12C-4576D500DC40}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 Dock Grid", "06 Dock Grid", "{CA67D49E-937D-480F-B12C-4576D500DC40}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Petzold.DockAroundTheBlock", "01Petzold.DockAroundTheBlock\01Petzold.DockAroundTheBlock.csproj", "{50F0743A-89E2-400D-822E-16E9FA42A277}"
 EndProject
@@ -99,25 +99,31 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Petzold.SplitTheClient", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08Petzold.ScrollCustomColors", "08Petzold.ScrollCustomColors\08Petzold.ScrollCustomColors.csproj", "{C8EB48E4-4D7F-4808-A890-F4A7DD4A7B84}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 Canvas", "7 Canvas", "{8F266DC3-9712-4681-86AB-648451A25BBE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 Canvas", "07 Canvas", "{8F266DC3-9712-4681-86AB-648451A25BBE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Petzold.PaintTheButton", "01Petzold.PaintTheButton\01Petzold.PaintTheButton.csproj", "{68BFA2DC-244D-451F-AE85-489F27CD0E0C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Petzold.Tile", "02Petzold.Tile\02Petzold.Tile.csproj", "{0600C232-A1C0-4F55-8116-7CF2D542E758}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 Dependensy Property", "8 Dependensy Property", "{C1906119-8A53-4122-B641-2B89A05501E5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08 Dependensy Property", "08 Dependensy Property", "{C1906119-8A53-4122-B641-2B89A05501E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Petzold.SetFontSizeProperty", "01Petzold.SetFontSizeProperty\01Petzold.SetFontSizeProperty.csproj", "{8566F538-16B7-496E-8863-07651F3BB503}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Petzold.SpaceButton", "02Petzold.SpaceButtons\02Petzold.SpaceButton.csproj", "{FE5A5E69-F2A8-4367-AD73-463AB0C23711}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 RoutedEvents", "9 RoutedEvents", "{FD296E7A-E3EE-41C9-829C-5CE50CE20075}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09 RoutedEvents", "09 RoutedEvents", "{FD296E7A-E3EE-41C9-829C-5CE50CE20075}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Petzold.ExamineRoutedEvents", "01Petzold.ExamineRoutedEvents\01Petzold.ExamineRoutedEvents.csproj", "{C9989D49-AA56-4D17-A176-4ECD84A112B0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Petzold.DrawCircles", "02Petzold.DrawCircles\02Petzold.DrawCircles.csproj", "{EF3B1AFD-B2A1-44E9-AC21-1CC6481DC222}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Petzold.Keystrokes", "03Petzold.Keystrokes\03Petzold.Keystrokes.csproj", "{4E3F6831-C2E3-4363-A9E1-0FF33FD74637}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10 User Elements", "10 User Elements", "{B84616B5-53E8-4091-82A3-11D46A29D2D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Petzold.BetterEllipse", "01Petzold.BetterEllipse\01Petzold.BetterEllipse.csproj", "{8FFDE808-AF53-4844-A3D4-0A445348C83B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Petzold.MedievalButton", "02Petzold.MedievalButton\02Petzold.MedievalButton.csproj", "{6B603BED-FAEC-404A-936B-40606679A14F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -641,6 +647,26 @@ Global
 		{4E3F6831-C2E3-4363-A9E1-0FF33FD74637}.Release|Mixed Platforms.Build.0 = Release|x86
 		{4E3F6831-C2E3-4363-A9E1-0FF33FD74637}.Release|x86.ActiveCfg = Release|x86
 		{4E3F6831-C2E3-4363-A9E1-0FF33FD74637}.Release|x86.Build.0 = Release|x86
+		{8FFDE808-AF53-4844-A3D4-0A445348C83B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8FFDE808-AF53-4844-A3D4-0A445348C83B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8FFDE808-AF53-4844-A3D4-0A445348C83B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{8FFDE808-AF53-4844-A3D4-0A445348C83B}.Debug|x86.ActiveCfg = Debug|x86
+		{8FFDE808-AF53-4844-A3D4-0A445348C83B}.Debug|x86.Build.0 = Debug|x86
+		{8FFDE808-AF53-4844-A3D4-0A445348C83B}.Release|Any CPU.ActiveCfg = Release|x86
+		{8FFDE808-AF53-4844-A3D4-0A445348C83B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8FFDE808-AF53-4844-A3D4-0A445348C83B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{8FFDE808-AF53-4844-A3D4-0A445348C83B}.Release|x86.ActiveCfg = Release|x86
+		{8FFDE808-AF53-4844-A3D4-0A445348C83B}.Release|x86.Build.0 = Release|x86
+		{6B603BED-FAEC-404A-936B-40606679A14F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6B603BED-FAEC-404A-936B-40606679A14F}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{6B603BED-FAEC-404A-936B-40606679A14F}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{6B603BED-FAEC-404A-936B-40606679A14F}.Debug|x86.ActiveCfg = Debug|x86
+		{6B603BED-FAEC-404A-936B-40606679A14F}.Debug|x86.Build.0 = Debug|x86
+		{6B603BED-FAEC-404A-936B-40606679A14F}.Release|Any CPU.ActiveCfg = Release|x86
+		{6B603BED-FAEC-404A-936B-40606679A14F}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{6B603BED-FAEC-404A-936B-40606679A14F}.Release|Mixed Platforms.Build.0 = Release|x86
+		{6B603BED-FAEC-404A-936B-40606679A14F}.Release|x86.ActiveCfg = Release|x86
+		{6B603BED-FAEC-404A-936B-40606679A14F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -697,5 +723,7 @@ Global
 		{C9989D49-AA56-4D17-A176-4ECD84A112B0} = {FD296E7A-E3EE-41C9-829C-5CE50CE20075}
 		{EF3B1AFD-B2A1-44E9-AC21-1CC6481DC222} = {FD296E7A-E3EE-41C9-829C-5CE50CE20075}
 		{4E3F6831-C2E3-4363-A9E1-0FF33FD74637} = {FD296E7A-E3EE-41C9-829C-5CE50CE20075}
+		{8FFDE808-AF53-4844-A3D4-0A445348C83B} = {B84616B5-53E8-4091-82A3-11D46A29D2D7}
+		{6B603BED-FAEC-404A-936B-40606679A14F} = {B84616B5-53E8-4091-82A3-11D46A29D2D7}
 	EndGlobalSection
 EndGlobal
