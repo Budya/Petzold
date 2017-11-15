@@ -125,6 +125,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Petzold.BetterEllipse", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Petzold.MedievalButton", "02Petzold.MedievalButton\02Petzold.MedievalButton.csproj", "{6B603BED-FAEC-404A-936B-40606679A14F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11 One Children Elements", "11 One Children Elements", "{0EBB69A4-0D5F-47B3-9F1E-B2FF9A65BC91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Petzold.EllipseWithChild", "01Petzold.EllipseWithChild\01Petzold.EllipseWithChild.csproj", "{9EAE61DF-3513-4D6B-9340-3BA937420164}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -667,6 +671,16 @@ Global
 		{6B603BED-FAEC-404A-936B-40606679A14F}.Release|Mixed Platforms.Build.0 = Release|x86
 		{6B603BED-FAEC-404A-936B-40606679A14F}.Release|x86.ActiveCfg = Release|x86
 		{6B603BED-FAEC-404A-936B-40606679A14F}.Release|x86.Build.0 = Release|x86
+		{9EAE61DF-3513-4D6B-9340-3BA937420164}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9EAE61DF-3513-4D6B-9340-3BA937420164}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9EAE61DF-3513-4D6B-9340-3BA937420164}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9EAE61DF-3513-4D6B-9340-3BA937420164}.Debug|x86.ActiveCfg = Debug|x86
+		{9EAE61DF-3513-4D6B-9340-3BA937420164}.Debug|x86.Build.0 = Debug|x86
+		{9EAE61DF-3513-4D6B-9340-3BA937420164}.Release|Any CPU.ActiveCfg = Release|x86
+		{9EAE61DF-3513-4D6B-9340-3BA937420164}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9EAE61DF-3513-4D6B-9340-3BA937420164}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9EAE61DF-3513-4D6B-9340-3BA937420164}.Release|x86.ActiveCfg = Release|x86
+		{9EAE61DF-3513-4D6B-9340-3BA937420164}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -725,5 +739,6 @@ Global
 		{4E3F6831-C2E3-4363-A9E1-0FF33FD74637} = {FD296E7A-E3EE-41C9-829C-5CE50CE20075}
 		{8FFDE808-AF53-4844-A3D4-0A445348C83B} = {B84616B5-53E8-4091-82A3-11D46A29D2D7}
 		{6B603BED-FAEC-404A-936B-40606679A14F} = {B84616B5-53E8-4091-82A3-11D46A29D2D7}
+		{9EAE61DF-3513-4D6B-9340-3BA937420164} = {0EBB69A4-0D5F-47B3-9F1E-B2FF9A65BC91}
 	EndGlobalSection
 EndGlobal

@@ -4,11 +4,12 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
+using _01Petzold.BetterEllipse;
 
 
 namespace _01Petzold.BetterEllipse
 {
-    class BetterEllipse : FrameworkElement
+    public class BetterEllipse : FrameworkElement
     {
         // DependencyProperty
         public static readonly DependencyProperty FillProperty;
