@@ -133,6 +133,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Petzold.RoundedButtonDeco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Petzold.BuildButtonFactory", "03Petzold.BuildButtonFactory\03Petzold.BuildButtonFactory.csproj", "{23B64D72-132B-468A-9EEF-BA4A01723787}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Petzold.DrawingVisual1.ColorCell", "04Petzold.DrawingVisual.ColorCell\04Petzold.DrawingVisual1.ColorCell.csproj", "{C40CA3DD-4089-4D84-BB18-B0243CD93D46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -705,6 +707,16 @@ Global
 		{23B64D72-132B-468A-9EEF-BA4A01723787}.Release|Mixed Platforms.Build.0 = Release|x86
 		{23B64D72-132B-468A-9EEF-BA4A01723787}.Release|x86.ActiveCfg = Release|x86
 		{23B64D72-132B-468A-9EEF-BA4A01723787}.Release|x86.Build.0 = Release|x86
+		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Debug|x86.ActiveCfg = Debug|x86
+		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Debug|x86.Build.0 = Debug|x86
+		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Release|Any CPU.ActiveCfg = Release|x86
+		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Release|x86.ActiveCfg = Release|x86
+		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -766,5 +778,6 @@ Global
 		{9EAE61DF-3513-4D6B-9340-3BA937420164} = {0EBB69A4-0D5F-47B3-9F1E-B2FF9A65BC91}
 		{800E3A58-B600-4A14-A904-84EC11143094} = {0EBB69A4-0D5F-47B3-9F1E-B2FF9A65BC91}
 		{23B64D72-132B-468A-9EEF-BA4A01723787} = {0EBB69A4-0D5F-47B3-9F1E-B2FF9A65BC91}
+		{C40CA3DD-4089-4D84-BB18-B0243CD93D46} = {0EBB69A4-0D5F-47B3-9F1E-B2FF9A65BC91}
 	EndGlobalSection
 EndGlobal

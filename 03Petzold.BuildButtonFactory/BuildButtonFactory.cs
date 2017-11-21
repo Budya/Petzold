@@ -49,9 +49,74 @@ namespace _03Petzold.BuildButtonFactory
 
             // Обратите внимание: свойство Padding кнопки
             // соответствует свойству Margin содержимого
+            factoryContent.SetValue(ContentPresenter.MarginProperty, 
+                new TemplateBindingExtension(Button.PaddingProperty));
 
+            // Set ContentPresenter as child of Border object
+            factoryBorder.AppendChild(factoryContent);
 
+            // Border назначается корневым узлом визуального дерева
+            template.VisualTree = factoryBorder;
+
+            // Definititon trigger for condidion IsMouseOver = true
+            Trigger trig = new Trigger();
+            trig.Property = UIElement.IsMouseOverProperty;
+            trig.Value = true;
+
+            // Связывание объекта Setter с триггером
+            // для изменения свойства CornerRadius элемента Border
+            Setter set = new Setter();
+            set.Property = Border.CornerRadiusProperty;
+            set.Value = new CornerRadius(24);
+            set.TargetName = "border";
+
+            // Включение объекта Setter в коллекцию Setters триггера
+            trig.Setters.Add(set);
+
+            // Определение объекта Setter для изменения FontStyle
+            // для свойства кнопки задавать TargetName не нужно
+            set = new Setter();
+            set.Property = Control.FontStyleProperty;
+            set.Value = FontStyles.Italic;
+
+            // Добавление в коллекцию Setters того же триггера
+            trig.Setters.Add(set);
+
+            //Включение триггера в шаблон
+            template.Triggers.Add(trig);
+
+            // Определение триггера для IsPressed
+            trig = new Trigger();
+            trig.Property = Button.IsPressedProperty;
+            trig.Value = true;
+            set = new Setter();
+            set.Property = Border.BackgroundProperty;
+            set.Value = SystemColors.ControlDarkBrush;
+            set.TargetName = "border";
+            
+            // Включение объекта Setter в коллекцию Setters триггера
+            trig.Setters.Add(set);
+
+            // Включение триггера в шаблон
+            template.Triggers.Add(trig);
+
+            // Создание объекта Button
+            Button btn = new Button();
+            btn.Template = template;
+
+            // Другие свойства определяются обычным образом
+            btn.Content = "Button with Custom Template";
+            btn.Padding = new Thickness(20);
+            btn.FontSize = 48;
+            btn.HorizontalAlignment = HorizontalAlignment.Center;
+            btn.VerticalAlignment = VerticalAlignment.Center;
+            btn.Click += ButtonOnClick;
+            Content = btn;
         }
 
+        private void ButtonOnClick(object sender, RoutedEventArgs args)
+        {
+            MessageBox.Show("You clicked the button", Title);
+        }
     }
 }
