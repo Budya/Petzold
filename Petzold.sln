@@ -135,6 +135,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Petzold.BuildButtonFactor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Petzold.DrawingVisual1.ColorCell", "04Petzold.DrawingVisual.ColorCell\04Petzold.DrawingVisual1.ColorCell.csproj", "{C40CA3DD-4089-4D84-BB18-B0243CD93D46}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12 User Panels", "12 User Panels", "{1E2389EF-334C-40FE-85BF-62CC1D72653B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Petzold.DuplicateUniformGrid", "01Petzold.DuplicateUniformGrid\01Petzold.DuplicateUniformGrid.csproj", "{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Petzold.PaintOnCanvasClone", "02Petzold.PaintOnCanvasClone\02Petzold.PaintOnCanvasClone.csproj", "{1E853D5D-AD94-467F-A79D-6285353CD0D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Petzold.DiagonalizeThebuttons", "03Petzold.DiagonalizeThebuttons\03Petzold.DiagonalizeThebuttons.csproj", "{9E930BD8-BB64-40F6-B159-2E39F913CDE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -717,6 +725,36 @@ Global
 		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Release|Mixed Platforms.Build.0 = Release|x86
 		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Release|x86.ActiveCfg = Release|x86
 		{C40CA3DD-4089-4D84-BB18-B0243CD93D46}.Release|x86.Build.0 = Release|x86
+		{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF}.Debug|x86.ActiveCfg = Debug|x86
+		{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF}.Debug|x86.Build.0 = Debug|x86
+		{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF}.Release|Any CPU.ActiveCfg = Release|x86
+		{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF}.Release|x86.ActiveCfg = Release|x86
+		{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF}.Release|x86.Build.0 = Release|x86
+		{1E853D5D-AD94-467F-A79D-6285353CD0D1}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1E853D5D-AD94-467F-A79D-6285353CD0D1}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{1E853D5D-AD94-467F-A79D-6285353CD0D1}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{1E853D5D-AD94-467F-A79D-6285353CD0D1}.Debug|x86.ActiveCfg = Debug|x86
+		{1E853D5D-AD94-467F-A79D-6285353CD0D1}.Debug|x86.Build.0 = Debug|x86
+		{1E853D5D-AD94-467F-A79D-6285353CD0D1}.Release|Any CPU.ActiveCfg = Release|x86
+		{1E853D5D-AD94-467F-A79D-6285353CD0D1}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{1E853D5D-AD94-467F-A79D-6285353CD0D1}.Release|Mixed Platforms.Build.0 = Release|x86
+		{1E853D5D-AD94-467F-A79D-6285353CD0D1}.Release|x86.ActiveCfg = Release|x86
+		{1E853D5D-AD94-467F-A79D-6285353CD0D1}.Release|x86.Build.0 = Release|x86
+		{9E930BD8-BB64-40F6-B159-2E39F913CDE8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9E930BD8-BB64-40F6-B159-2E39F913CDE8}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9E930BD8-BB64-40F6-B159-2E39F913CDE8}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9E930BD8-BB64-40F6-B159-2E39F913CDE8}.Debug|x86.ActiveCfg = Debug|x86
+		{9E930BD8-BB64-40F6-B159-2E39F913CDE8}.Debug|x86.Build.0 = Debug|x86
+		{9E930BD8-BB64-40F6-B159-2E39F913CDE8}.Release|Any CPU.ActiveCfg = Release|x86
+		{9E930BD8-BB64-40F6-B159-2E39F913CDE8}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9E930BD8-BB64-40F6-B159-2E39F913CDE8}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9E930BD8-BB64-40F6-B159-2E39F913CDE8}.Release|x86.ActiveCfg = Release|x86
+		{9E930BD8-BB64-40F6-B159-2E39F913CDE8}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -779,5 +817,8 @@ Global
 		{800E3A58-B600-4A14-A904-84EC11143094} = {0EBB69A4-0D5F-47B3-9F1E-B2FF9A65BC91}
 		{23B64D72-132B-468A-9EEF-BA4A01723787} = {0EBB69A4-0D5F-47B3-9F1E-B2FF9A65BC91}
 		{C40CA3DD-4089-4D84-BB18-B0243CD93D46} = {0EBB69A4-0D5F-47B3-9F1E-B2FF9A65BC91}
+		{A2A1DAE1-C59D-40EB-B4D4-A4B95DFB49AF} = {1E2389EF-334C-40FE-85BF-62CC1D72653B}
+		{1E853D5D-AD94-467F-A79D-6285353CD0D1} = {1E2389EF-334C-40FE-85BF-62CC1D72653B}
+		{9E930BD8-BB64-40F6-B159-2E39F913CDE8} = {1E2389EF-334C-40FE-85BF-62CC1D72653B}
 	EndGlobalSection
 EndGlobal

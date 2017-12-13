@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{C40CA3DD-4089-4D84-BB18-B0243CD93D46}</ProjectGuid>
+    <ProjectGuid>{9E930BD8-BB64-40F6-B159-2E39F913CDE8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_04Petzold.DrawingVisual1.ColorCell</RootNamespace>
-    <AssemblyName>04Petzold.DrawingVisual1.ColorCell</AssemblyName>
+    <RootNamespace>_03Petzold.DiagonalizeThebuttons</RootNamespace>
+    <AssemblyName>03Petzold.DiagonalizeThebuttons</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -42,9 +42,7 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ColorCell.cs" />
-    <Compile Include="ColorGrid.cs" />
-    <Compile Include="SelectColor.cs" />
+    <Compile Include="DiagonalPanel.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
