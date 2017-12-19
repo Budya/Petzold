@@ -159,6 +159,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Petzold.ListColorShapes",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Petzold.ListColoredLables", "06Petzold.ListColoredLables\06Petzold.ListColoredLables.csproj", "{9B2B6618-2E32-4B6B-A236-F0FE275785CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Petzold.ListWithListBoxItems", "07Petzold.ListWithListBoxItems\07Petzold.ListWithListBoxItems.csproj", "{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08Petzold.ListColorsElegantly", "08Petzold.ListColorsElegantly\08Petzold.ListColorsElegantly.csproj", "{FE1C7788-4BFB-4518-8C69-BA427E241A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09Petzold.ListColorsEvenElegantlier", "09Petzold.ListColorsEvenElegantly\09Petzold.ListColorsEvenElegantlier.csproj", "{9B43918F-7AE6-439F-910D-96845914FE05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -841,6 +847,36 @@ Global
 		{9B2B6618-2E32-4B6B-A236-F0FE275785CF}.Release|Mixed Platforms.Build.0 = Release|x86
 		{9B2B6618-2E32-4B6B-A236-F0FE275785CF}.Release|x86.ActiveCfg = Release|x86
 		{9B2B6618-2E32-4B6B-A236-F0FE275785CF}.Release|x86.Build.0 = Release|x86
+		{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC}.Debug|x86.ActiveCfg = Debug|x86
+		{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC}.Debug|x86.Build.0 = Debug|x86
+		{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC}.Release|Any CPU.ActiveCfg = Release|x86
+		{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC}.Release|Mixed Platforms.Build.0 = Release|x86
+		{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC}.Release|x86.ActiveCfg = Release|x86
+		{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC}.Release|x86.Build.0 = Release|x86
+		{FE1C7788-4BFB-4518-8C69-BA427E241A19}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FE1C7788-4BFB-4518-8C69-BA427E241A19}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{FE1C7788-4BFB-4518-8C69-BA427E241A19}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{FE1C7788-4BFB-4518-8C69-BA427E241A19}.Debug|x86.ActiveCfg = Debug|x86
+		{FE1C7788-4BFB-4518-8C69-BA427E241A19}.Debug|x86.Build.0 = Debug|x86
+		{FE1C7788-4BFB-4518-8C69-BA427E241A19}.Release|Any CPU.ActiveCfg = Release|x86
+		{FE1C7788-4BFB-4518-8C69-BA427E241A19}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{FE1C7788-4BFB-4518-8C69-BA427E241A19}.Release|Mixed Platforms.Build.0 = Release|x86
+		{FE1C7788-4BFB-4518-8C69-BA427E241A19}.Release|x86.ActiveCfg = Release|x86
+		{FE1C7788-4BFB-4518-8C69-BA427E241A19}.Release|x86.Build.0 = Release|x86
+		{9B43918F-7AE6-439F-910D-96845914FE05}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9B43918F-7AE6-439F-910D-96845914FE05}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9B43918F-7AE6-439F-910D-96845914FE05}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9B43918F-7AE6-439F-910D-96845914FE05}.Debug|x86.ActiveCfg = Debug|x86
+		{9B43918F-7AE6-439F-910D-96845914FE05}.Debug|x86.Build.0 = Debug|x86
+		{9B43918F-7AE6-439F-910D-96845914FE05}.Release|Any CPU.ActiveCfg = Release|x86
+		{9B43918F-7AE6-439F-910D-96845914FE05}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9B43918F-7AE6-439F-910D-96845914FE05}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9B43918F-7AE6-439F-910D-96845914FE05}.Release|x86.ActiveCfg = Release|x86
+		{9B43918F-7AE6-439F-910D-96845914FE05}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -913,5 +949,8 @@ Global
 		{2A4FF6F3-9754-4ABE-9DFA-E80F4F69C37C} = {EC883D1E-D763-42B7-84D5-F7F3DC3A1A30}
 		{A80DE8D2-C912-4FF3-ACD1-4B300B052790} = {EC883D1E-D763-42B7-84D5-F7F3DC3A1A30}
 		{9B2B6618-2E32-4B6B-A236-F0FE275785CF} = {EC883D1E-D763-42B7-84D5-F7F3DC3A1A30}
+		{B4F1330C-7F9B-4B6F-B0C2-37AD1149ADAC} = {EC883D1E-D763-42B7-84D5-F7F3DC3A1A30}
+		{FE1C7788-4BFB-4518-8C69-BA427E241A19} = {EC883D1E-D763-42B7-84D5-F7F3DC3A1A30}
+		{9B43918F-7AE6-439F-910D-96845914FE05} = {EC883D1E-D763-42B7-84D5-F7F3DC3A1A30}
 	EndGlobalSection
 EndGlobal
