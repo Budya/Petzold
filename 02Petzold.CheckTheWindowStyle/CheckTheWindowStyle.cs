@@ -39,9 +39,37 @@ namespace _02Petzold.CheckTheWindowStyle
             MenuItem itemStyle = new MenuItem();
             itemStyle.Header = "_Style";
             menu.Items.Add(itemStyle);
-
-           
+            itemStyle.Items.Add(
+                CreateMenuItem("_No border or caption", WindowStyle.None));
+            itemStyle.Items.Add(
+                CreateMenuItem("_Single-border window",
+                WindowStyle.SingleBorderWindow));
+            itemStyle.Items.Add(
+                CreateMenuItem("3_D-borderWindow",
+                WindowStyle.ThreeDBorderWindow));
+            itemStyle.Items.Add(
+                CreateMenuItem("_Tool window",
+                WindowStyle.ToolWindow));
         }
 
+        MenuItem CreateMenuItem(string str, WindowStyle style)
+        {
+            MenuItem item = new MenuItem();
+            item.Header = str;
+            item.Tag = style;
+            item.IsChecked = (style == WindowStyle);
+            item.Click += StyleOnClick;
+            if (item.IsChecked)
+                itemChecked = item;
+            return item;
+        }
+
+        private void StyleOnClick(object sender, RoutedEventArgs e)
+        {
+            itemChecked.IsChecked = false;
+            itemChecked = e.Source as MenuItem;
+            itemChecked.IsChecked = true;
+            WindowStyle = (WindowStyle)itemChecked.Tag;
+        }
     }
 }

@@ -13,7 +13,7 @@ namespace _02Petzold.DrawCircles
 {
     class DrawCircles : Window
     {
-        Canvas canv;
+       // Canvas canv;
 
         // Fields for drawing
         bool isDrawing;
@@ -35,7 +35,8 @@ namespace _02Petzold.DrawCircles
         public DrawCircles ()
         {
             Title = "Draw Circles";
-            Content = canv = new Canvas();
+            Canvas canv = new Canvas();
+            Content = canv;
         }
 
         protected override void OnMouseLeftButtonDown(
