@@ -13,7 +13,7 @@ namespace _02Petzold.DrawCircles
 {
     class DrawCircles : Window
     {
-       // Canvas canv;
+        Canvas canv;
 
         // Fields for drawing
         bool isDrawing;

@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{E77FF758-712B-492B-BA5E-A0D15A4DAE8E}</ProjectGuid>
+    <ProjectGuid>{413AD4CC-388B-416A-B31E-0732283DD7A2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_04Petzold.DesignAButton</RootNamespace>
-    <AssemblyName>04Petzold.DesignAButton</AssemblyName>
+    <RootNamespace>_04Petzold.SelectColorFromMenuGrid</RootNamespace>
+    <AssemblyName>04Petzold.SelectColorFromMenuGrid</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -33,10 +33,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <Win32Resource>
-    </Win32Resource>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
@@ -46,21 +42,13 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DesignAButton.cs" />
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
+    <Compile Include="SelectColorFormMenuGrid.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Images\" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
+    <ProjectReference Include="..\11Petzold.SelectColorFromGrid\11Petzold.SelectColorFromGrid.csproj">
+      <Project>{860B8369-A993-4C39-A1DC-4A297AEBFB88}</Project>
+      <Name>11Petzold.SelectColorFromGrid</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

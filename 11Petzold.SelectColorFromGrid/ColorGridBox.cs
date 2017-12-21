@@ -9,7 +9,7 @@ using System.Windows.Shapes;
 
 namespace _11Petzold.SelectColorFromGrid
 {
-    class ColorGridBox : ListBox
+    public class ColorGridBox : ListBox
     {
         // Display colors
         private string[] strColors =
@@ -35,7 +35,7 @@ namespace _11Petzold.SelectColorFromGrid
             // Filling list
             foreach (string strColor in strColors)
             {
-                // Creation Rectangle object & addin it in ListBox
+                // Creation Rectangle object & adding it in ListBox
                 Rectangle rect = new Rectangle();
                 rect.Width = 12;
                 rect.Height = 12;

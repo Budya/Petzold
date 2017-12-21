@@ -36,7 +36,7 @@ namespace _04Petzold.DesignAButton
             stack.Children.Add(ZigZag(10));
 
             // Добавление объекта Image
-            Uri uri = new Uri("/book.ico",UriKind.Relative);
+            Uri uri = new Uri(@"/book.ico",UriKind.Relative);
             BitmapImage bitmap = new BitmapImage(uri);
             Image img = new Image();
             img.Margin = new Thickness(0,10,0,0);

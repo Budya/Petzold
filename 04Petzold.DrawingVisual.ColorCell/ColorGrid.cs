@@ -10,7 +10,7 @@ using System.Text;
 
 namespace _04Petzold.DrawingVisual1.ColorCell
 {
-    class ColorGrid : Control
+    public class ColorGrid : Control
     {
         // Colls and Rows
         private const int yNum = 5;
