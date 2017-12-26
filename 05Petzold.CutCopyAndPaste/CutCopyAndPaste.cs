@@ -1,5 +1,4 @@
 ﻿using System;
-
 using System.Reflection;
 using System.Windows;
 using System.Windows.Controls;
@@ -8,13 +7,14 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Reflection;
-using FilePath = System.IO.Path;
+//using FilePath = System.IO.Path;
 
 namespace _05Petzold.CutCopyAndPaste
 {
-    class CutCopyAndPaste : Window
+    public class CutCopyAndPaste : Window
     {
         private TextBlock text;
+        private double iconSize = 15.0;
         protected MenuItem itemCut, itemCopy, itemPaste, itemDelete;
         [STAThread]
         public static void Main(string[] args)
@@ -27,10 +27,10 @@ namespace _05Petzold.CutCopyAndPaste
         {
             Title = "Cut, Copy, And Paste";
             
-            var directory = FilePath.GetDirectoryName(
-                Assembly.GetExecutingAssembly().Location);
+            //var directory = FilePath.GetDirectoryName(
+            //    Assembly.GetExecutingAssembly().Location);
 
-            Console.WriteLine(directory.ToString());
+            //Console.WriteLine(directory.ToString());
             
 
             // Creation DockPanel
@@ -60,11 +60,16 @@ namespace _05Petzold.CutCopyAndPaste
             // Creation commands of Edit menu
             itemCut = new MenuItem();
             itemCut.Header = "Cu_t";
+            itemCut.InputGestureText = "Ctrl+X";
             itemCut.Click += CutOnClick;
             Image img = new Image();
             img.Source = new BitmapImage(
             new Uri("pack://application:,,/Images/cutIco.png"));
             Console.WriteLine(img.Source.ToString());
+            Console.WriteLine(img.Width.ToString());
+            Console.WriteLine(img.Height.ToString());
+            img.Width = iconSize;
+            img.Height = img.Width;
             itemCut.Icon = img;
             itemCut.VerticalContentAlignment = VerticalAlignment.Center;
             itemEdit.Items.Add(itemCut);
@@ -74,7 +79,9 @@ namespace _05Petzold.CutCopyAndPaste
             itemCopy.Click += CopyOnClick;
             img = new Image();
             img.Source = new BitmapImage(
-            new Uri("Images/copyIco.png", UriKind.Relative));
+            new Uri("pack://application:,,,/Images/copyIco.png"));
+            img.Width = iconSize;
+            img.Height = img.Width;
             itemCopy.Icon = img;
             itemEdit.Items.Add(itemCopy);
 
@@ -83,7 +90,9 @@ namespace _05Petzold.CutCopyAndPaste
             itemPaste.Click += PasteOnClick;
             img = new Image();
             img.Source = new BitmapImage(
-            new Uri("Images/pasteIco.png", UriKind.Relative));
+            new Uri("pack://application:,,,/Images/pasteIco.png"));
+            img.Width = iconSize;
+            img.Height = img.Width;
             itemPaste.Icon = img;
             itemEdit.Items.Add(itemPaste);
 
@@ -92,7 +101,9 @@ namespace _05Petzold.CutCopyAndPaste
             itemDelete.Click += DeleteOnClick;
             img = new Image();
             img.Source = new BitmapImage(
-            new Uri("Images/deleteIco.png", UriKind.Relative));
+            new Uri("pack://application:,,,/Images/deleteIco.png"));
+            img.Width = iconSize;
+            img.Height = img.Width;
             itemDelete.Icon = img;
             itemEdit.Items.Add(itemDelete);
         }
@@ -105,24 +116,24 @@ namespace _05Petzold.CutCopyAndPaste
             itemPaste.IsEnabled = Clipboard.ContainsText();
         }
 
-        private void CutOnClick(object sender, RoutedEventArgs args)
+        public void CutOnClick(object sender, RoutedEventArgs args)
         {
             CopyOnClick(sender, args);
             DeleteOnClick(sender, args);
         }
-        private void CopyOnClick(object sender, RoutedEventArgs e)
+        public void CopyOnClick(object sender, RoutedEventArgs e)
         {
             if (text.Text != null && text.Text.Length > 0)
             Clipboard.SetText(text.Text);
         }
 
-        private void PasteOnClick(object sender, RoutedEventArgs e)
+        public void PasteOnClick(object sender, RoutedEventArgs e)
         {
             if (Clipboard.ContainsText())
             text.Text = Clipboard.GetText();
         }
 
-        private void DeleteOnClick(object sender, RoutedEventArgs e)
+        public void DeleteOnClick(object sender, RoutedEventArgs e)
         {
             text.Text = null;
         }
